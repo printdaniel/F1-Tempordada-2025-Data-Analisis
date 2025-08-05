@@ -26,6 +26,6 @@ __pycache__/
 # Archivos de salida
 output/
 cache/
-
+data/2025/*/raw/
 # Archivos de logs
 *.log
