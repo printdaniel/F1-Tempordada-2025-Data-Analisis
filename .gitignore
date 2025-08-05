@@ -1,7 +1,31 @@
+# Librerias
 fastf1
 matplotlib
 seaborn
 pandas
 numpy
 plotly
-venv
+
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de sistema y editores
+.DS_Store
+*.swp
+*.swo
+
+# Archivos de salida
+output/
+cache/
+
+# Archivos de logs
+*.log
