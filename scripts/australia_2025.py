@@ -66,6 +66,16 @@ plt.tight_layout()
 plt.savefig("output/figures/ritmo_carrera_aus2025.png", dpi=300)
 
 #=== Gráfico 2: Paradas en boxes ===
+sns.lineplot(
+    data=race_laps,
+    x="LapNumber",
+    y="LapTime",
+    hue="Driver",
+    estimator=None,
+    units="Driver",
+    lw=1,
+    alpha=0.8
+)
 pit_data = race_laps[race_laps["PitInTime"].notna()]
 plt.figure(figsize=(12, 6))
 sns.scatterplot(data=pit_data, x="LapNumber", y="Driver", hue="Compound", style="Stint")
@@ -84,3 +94,30 @@ plt.ylabel("Tiempo de vuelta (s)")
 plt.xlabel("Vuelta")
 plt.tight_layout()
 plt.savefig("output/figures/degradacion_ritmo.png")
+
+# === Gráfico 4: Estrategia de neumáticos ===
+plt.figure(figsize=(12, 6))
+sns.stripplot(
+    data=race_laps,
+    x="LapNumber",
+    y="Driver",
+    hue="Compound",
+    dodge=True,
+    palette="Set2"
+)
+plt.title("Estrategia de Neumáticos - GP Australia 2025")
+plt.xlabel("Vuelta")
+plt.tight_layout()
+plt.savefig("output/figures/estrategia_neumaticos.png")
+
+
+# === Gráfico 5: Evolución de posiciones ===
+plt.figure(figsize=(12, 6))
+sns.lineplot(data=race_laps, x="LapNumber", y="Position", hue="Driver", palette=driver_colors)
+plt.gca().invert_yaxis()  # En F1, posición 1 es la mejor
+plt.title("Evolución de Posiciones - GP Australia 2025")
+plt.xlabel("Vuelta")
+plt.ylabel("Posición")
+plt.tight_layout()
+plt.savefig("output/figures/evolucion_posiciones.png")
+
