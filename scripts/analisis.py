@@ -35,8 +35,6 @@ def seleccionar_gp(gps):
             print("❌ Por favor, ingresa un número válido.")
 
 def cargar_y_filtrar_datos(gp_folder):
-    #ruta_csv = os.path.join(GP_DIR, gp_folder, f"{gp_folder}.csv")
-    #ruta_csv = os.path.join(GP_DIR, gp_folder, "vueltas_crudas.csv")
     ruta_csv = os.path.join(GP_DIR, gp_folder, "raw", "vueltas_crudas.csv")
 
     if not os.path.exists(ruta_csv):
