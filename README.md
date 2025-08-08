@@ -1,4 +1,4 @@
-### F1 Temporada 2025 – Análisis de Datos
+# F1 Temporada 2025 – Análisis de Datos
 
 F1 Temporada 2025 Data Análisis es un proyecto de análisis de datos
 de Fórmula 1 utilizando la librería FastF1 para obtener datos oficiales
@@ -14,3 +14,36 @@ Plotly para producir análisis visuales y reportes.
 ## Ritmo de Carrera — Australian Grand Prix 2025
 ![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/ritmo_carrera.png)
 
+# Clasificación del Gran Premio de Australia 2025
+
+| Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Lando Norris              | McLaren-Mercedes              | 1:42:06.304       | Pole, Vuelta rápida       |
+| 2        | Max Verstappen            | Red Bull-Honda RBPT           | +0.895            |                           |
+| 3        | George Russell            | Mercedes                      | +8.481            |                           |
+| 4        | Andrea Kimi Antonelli     | Mercedes                      | +10.135           |                           |
+| 5        | Alexander Albon           | Williams-Mercedes             | +12.773           |                           |
+| 6        | Lance Stroll              | Aston Martin-Mercedes         | +17.413           |                           |
+| 7        | Nico Hülkenberg           | Kick Sauber-Ferrari           | +18.423           |                           |
+| 8        | Charles Leclerc           | Ferrari                       | +19.826           |                           |
+| 9        | Oscar Piastri             | McLaren-Mercedes              | +20.448           |                           |
+| 10       | Lewis Hamilton            | Ferrari                       | +22.473           |                           |
+| 11       | Pierre Gasly              | Alpine-Renault                | +26.502           |                           |
+| 12       | Yuki Tsunoda              | Racing Bulls-Honda RBPT       | +29.884           |                           |
+| 13       | Esteban Ocon              | Haas-Ferrari                  | +33.161           |                           |
+| 14       | Oliver Bearman            | Haas-Ferrari                  | +40.351           |                           |
+| DNF      | Liam Lawson               | Red Bull-Honda RBPT           | -                 | Accidente (Vuelta 46)     |
+| DNF      | Gabriel Bortoleto         | Kick Sauber-Ferrari           | -                 | Accidente (Vuelta 45)     |
+| DNF      | Fernando Alonso           | Aston Martin-Mercedes         | -                 | Accidente (Vuelta 32)     |
+| DNF      | Carlos Sainz Jr.          | Williams-Mercedes             | -                 | Accidente (Vuelta 1)      |
+| DNF      | Jack Doohan               | Alpine-Renault                | -                 | Accidente (Vuelta 1)      |
+| DNF      | Isack Hadjar              | Racing Bulls-Honda RBPT       | -                 | Accidente (V. Formación)  |
+
+## Notas
+- **Fecha**: 16 de marzo de 2025
+- **Circuito**: Albert Park, Melbourne
+- **Vueltas**: 57 (de 58 previstas, reducidas por accidente en la vuelta de formación)
+- **Condiciones**: Lluvia intermitente, tres períodos de coche de seguridad
+- **Pole Position**: Lando Norris (1:15.096)
+- **Vuelta Rápida**: Lando Norris (1:22.167, vuelta 43)
+- **Incidentes**: La penalización inicial a Andrea Kimi Antonelli fue revisada, manteniendo su 4° puesto.
