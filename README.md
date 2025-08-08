@@ -10,10 +10,6 @@ emplea Python junto con bibliotecas como Matplotlib, Seaborn y
 Plotly para producir análisis visuales y reportes.
 
 
-
-## Ritmo de Carrera — Australian Grand Prix 2025
-![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/ritmo_carrera.png)
-
 # Clasificación del Gran Premio de Australia 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Notas                     |
@@ -47,3 +43,26 @@ Plotly para producir análisis visuales y reportes.
 - **Pole Position**: Lando Norris (1:15.096)
 - **Vuelta Rápida**: Lando Norris (1:22.167, vuelta 43)
 - **Incidentes**: La penalización inicial a Andrea Kimi Antonelli fue revisada, manteniendo su 4° puesto.
+
+# Resumen del Gran Premio de Australia 2025
+El Gran Premio de Australia 2025, celebrado el 16 de marzo en Albert Park, Melbourne,
+fue una carrera intensa marcada por la lluvia intermitente y múltiples incidentes.
+Lando Norris (McLaren) dominó desde la pole position, liderando de principio a fin para
+lograr su tercera victoria consecutiva en Australia, con un tiempo de 1:42:06.304 y
+la vuelta rápida (1:22.167). Max Verstappen (Red Bull) quedó a solo 0.895 segundos en segundo lugar,
+mientras que George Russell (Mercedes) completó el podio.La carrera, reducida a 57 vueltas por
+un accidente de Isack Hadjar en la vuelta de formación, tuvo tres períodos de coche de seguridad
+debido a choques, incluyendo los abandonos de Carlos Sainz Jr. y Jack Doohan en la primera vuelta,
+Fernando Alonso en la vuelta 32, y Liam Lawson y Gabriel Bortoleto en las vueltas 46 y 45, respectivamente.
+Andrea Kimi Antonelli (Mercedes) brilló con un cuarto puesto tras la revisión de una penalización.
+Las condiciones climáticas y los incidentes mantuvieron la emoción hasta el final, con McLaren
+consolidando su liderazgo en el campeonato de constructores.
+
+## Ritmo de Carrera — Australian Grand Prix 2025
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/ritmo_carrera.png)
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/estratetia_neumaticos.png)
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/evolucion_posiciones.png)
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/parada_en_boxex.png)
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/ritmo_carrera.png)
+
+
