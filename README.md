@@ -62,7 +62,7 @@ consolidando su liderazgo en el campeonato de constructores.
 ![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/ritmo_carrera.png)
 ![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/estrategia_neumaticos.png)
 ![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/evolucion_posiciones.png)
-![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/parada_en_boxex.png)
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/parada_en_boxes.png)
 ![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/degradacion_ritmo.png)
 
 
