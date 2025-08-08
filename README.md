@@ -9,5 +9,6 @@ la interpretación del rendimiento de pilotos y equipos a lo largo de la tempora
 
 ## Ritmo de Carrera - GP Australia 2025
 
-![Ritmo de Carrera Australia 2025](output/figures/ritmo_carrera_aus2025.png)
+## Ritmo de Carrera — Australian Grand Prix 2025
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/ritmo_carrera.png)
 
