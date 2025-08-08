@@ -5,3 +5,9 @@ incluyendo ritmo de carrera, estrategias de neumáticos, paradas en boxes,
 degradación de ritmo y velocidades máximas. Los resultados se presentan
 mediante visualizaciones interactivas y gráficos estadísticos para facilitar
 la interpretación del rendimiento de pilotos y equipos a lo largo de la temporada.
+
+
+## Ritmo de Carrera - GP Australia 2025
+
+![Ritmo de Carrera Australia 2025](output/figures/ritmo_carrera_aus2025.png)
+
