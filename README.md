@@ -125,5 +125,16 @@ fue destacada. Este resultado consolidó el dominio de McLaren en el campeonato 
 marcando su 50º final 1-2 en la historia de la Fórmula 1.
 
 
+![Ritmo de carrera — China 2025](gp_data/chinese_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — China 2025](gp_data/chinese__grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — China 2025](gp_data/chinese_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — China 2025](gp_data/chinese_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — China 2025](gp_data/chinese_grand_prix_2025/figures/degradacion_ritmo.png)
+
+
 
 
