@@ -70,3 +70,47 @@ consolidando su liderazgo en el campeonato de constructores.
 ![Degradacion de ritmo — Australia 2025](gp_data/australian_grand_prix_2025/figures/degradacion_ritmo.png)
 
 
+
+# Clasificación del Gran Premio de China 2025
+
+# Clasificación del Gran Premio de China 2025
+
+| Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Puntos | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|--------|---------------------------|
+| 1        | Oscar Piastri             | McLaren-Mercedes              | 1:30:55.026       | 25     | Pole                      |
+| 2        | Lando Norris              | McLaren-Mercedes              | +9.748            | 18     | Vuelta rápida             |
+| 3        | George Russell            | Mercedes                      | +11.097           | 15     |                           |
+| 4        | Max Verstappen            | Red Bull-Honda RBPT           | +16.656           | 12     |                           |
+| 5        | Esteban Ocon              | Haas-Ferrari                  | +49.969           | 10     |                           |
+| 6        | Andrea Kimi Antonelli     | Mercedes                      | +53.748           | 8      |                           |
+| 7        | Alexander Albon           | Williams-Mercedes             | +56.321           | 6      |                           |
+| 8        | Oliver Bearman            | Haas-Ferrari                  | +1:01.303         | 4      |                           |
+| 9        | Lance Stroll              | Aston Martin-Mercedes         | +1:10.204         | 2      |                           |
+| 10       | Carlos Sainz              | Williams-Mercedes             | +1:16.387         | 1      |                           |
+| 11       | Isack Hadjar              | Racing Bulls-Honda RBPT       | +1:18.875         | 0      |                           |
+| 12       | Liam Lawson               | Red Bull-Honda RBPT           | +1:21.147         | 0      |                           |
+| 13       | Jack Doohan               | Alpine-Renault                | +1:28.401         | 0      | Penalización 10s          |
+| 14       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | +1 vuelta         | 0      |                           |
+| 15       | Nico Hülkenberg           | Kick Sauber-Ferrari           | +1 vuelta         | 0      |                           |
+| 16       | Yuki Tsunoda              | Racing Bulls-Honda RBPT       | +1 vuelta         | 0      |                           |
+| DNF      | Fernando Alonso           | Aston Martin-Mercedes         | -                 | 0      | Abandono (Vuelta 4)       |
+| DSQ      | Charles Leclerc           | Ferrari                       | -                 | 0      | Coche con peso insuficiente |
+| DSQ      | Lewis Hamilton            | Ferrari                       | -                 | 0      | Desgaste excesivo del skid |
+| DSQ      | Pierre Gasly              | Alpine-Renault                | -                 | 0      | Coche con peso insuficiente |
+
+## Notas
+- **Fecha**: 23 de marzo de 2025
+- **Circuito**: Shanghai International Circuit, Shanghai
+- **Vueltas**: 56
+- **Condiciones**: Nublado
+- **Pole Position**: Oscar Piastri (1:30.641)
+- **Vuelta Rápida**: Lando Norris (1:35.454, vuelta 53)
+- **Incidentes**:
+  - Descalificaciones de Charles Leclerc y Pierre Gasly por coches con peso insuficiente.
+  - Descalificación de Lewis Hamilton por desgaste excesivo del skid.
+  - Jack Doohan recibió una penalización de 10 segundos por forzar a otro piloto fuera de pista.
+  - Fernando Alonso abandonó en la vuelta 4 por problemas de frenos.
+- **Hito**: McLaren logró su 50º final 1-2 en un Gran Premio.
+
+
+
