@@ -109,7 +109,7 @@ consolidando su liderazgo en el campeonato de constructores.
   - Fernando Alonso abandonó en la vuelta 4 por problemas de frenos.
 - **Hito**: McLaren logró su 50º final 1-2 en un Gran Premio.
 
-Resumen del Gran Premio de China 2025
+## Resumen del Gran Premio de China 2025
 El Gran Premio de China 2025, celebrado el 23 de marzo en el Shanghai International Circuit,
 fue una carrera dominada por McLaren, que logró un histórico 1-2. Oscar Piastri partió
 desde la pole (1:30.641) y lideró de principio a fin, ganando con un tiempo de 1:30:55.026.
@@ -127,7 +127,7 @@ marcando su 50º final 1-2 en la historia de la Fórmula 1.
 
 ![Ritmo de carrera — China 2025](gp_data/chinese_grand_prix_2025/figures/ritmo_carrera.png)
 ## Estrategía de Neumáticos
-![Estrategia de Neumáticos — China 2025](gp_data/chinese__grand_prix_2025/figures/estrategia_neumaticos.png)
+![Estrategia de Neumáticos — China 2025](gp_data/chinese_grand_prix_2025/figures/estrategia_neumaticos.png)
 ## Evolución de Posiciones
 ![Evolución de Posiciones — China 2025](gp_data/chinese_grand_prix_2025/figures/evolucion_posiciones.png)
 ## Paradas en Boxes
