@@ -70,9 +70,6 @@ consolidando su liderazgo en el campeonato de constructores.
 ![Degradacion de ritmo — Australia 2025](gp_data/australian_grand_prix_2025/figures/degradacion_ritmo.png)
 
 
-
-# Clasificación del Gran Premio de China 2025
-
 # Clasificación del Gran Premio de China 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Puntos | Notas                     |
@@ -111,6 +108,22 @@ consolidando su liderazgo en el campeonato de constructores.
   - Jack Doohan recibió una penalización de 10 segundos por forzar a otro piloto fuera de pista.
   - Fernando Alonso abandonó en la vuelta 4 por problemas de frenos.
 - **Hito**: McLaren logró su 50º final 1-2 en un Gran Premio.
+
+Resumen del Gran Premio de China 2025
+El Gran Premio de China 2025, celebrado el 23 de marzo en el Shanghai International Circuit,
+fue una carrera dominada por McLaren, que logró un histórico 1-2. Oscar Piastri partió
+desde la pole (1:30.641) y lideró de principio a fin, ganando con un tiempo de 1:30:55.026.
+Lando Norris aseguró el segundo puesto a 9.748 segundos, marcando también la vuelta rápida (1:35.454).
+George Russell (Mercedes) completó el podio, seguido de cerca por Max Verstappen (Red Bull).
+La carrera, disputada en condiciones nubladas y sin lluvia, tuvo pocos incidentes en pista,
+pero estuvo marcada por controversias post-carrera. Charles Leclerc y Pierre Gasly fueron descalificados
+por coches con peso insuficiente, mientras que Lewis Hamilton lo fue por desgaste excesivo del skid.
+Fernando Alonso abandonó en la vuelta 4 por problemas de frenos, y Jack Doohan (Alpine)
+recibió una penalización de 10 segundos por forzar a otro piloto fuera de pista.
+La actuación de Haas, con Esteban Ocon y Oliver Bearman en quinto y octavo lugar,
+fue destacada. Este resultado consolidó el dominio de McLaren en el campeonato de constructores,
+marcando su 50º final 1-2 en la historia de la Fórmula 1.
+
 
 
 
