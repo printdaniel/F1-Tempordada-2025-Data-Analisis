@@ -176,3 +176,28 @@ marcando su 50º final 1-2 en la historia de la Fórmula 1.
   - Isack Hadjar destacó con un séptimo puesto a pesar de problemas con el cinturón de seguridad.
   - Yuki Tsunoda, en su debut con Red Bull en su carrera local, no alcanzó Q3, quedando 14°.
 
+## Resumen
+El Gran Premio de Japón 2025, disputado el 6 de abril en el Suzuka International
+Circuit, vio a Max Verstappen (Red Bull) conseguir su primera victoria de la
+temporada, completando las 53 vueltas en 1:22:06.983. Partiendo desde la pole
+(1:26.983), Verstappen mantuvo a raya a los McLaren de Lando Norris y Oscar
+Piastri, que terminaron segundo (+1.423) y tercero (+2.129), respectivamente,
+en una carrera en seco donde la lluvia, esperada, no apareció. La pista, conocida
+por su dificultad para adelantar, limitó las batallas en pista, haciendo clave
+la estrategia y la gestión de neumáticos, que mostró poca degradación.Un momento
+crítico ocurrió en la vuelta 22, cuando Verstappen y Norris entraron juntos a
+boxes. McLaren ejecutó una parada más rápida, permitiendo a Norris salir en
+paralelo, pero Verstappen mantuvo la posición al obligar al británico a salirse
+a la hierba, sin investigación posterior. Piastri, con mejor ritmo, se acercó a
+Norris en las últimas vueltas, pero McLaren no cambió posiciones, perdiendo una
+posible oportunidad de atacar a Verstappen. Kimi Antonelli (Mercedes) destacó,
+liderando temporalmente (récord como el piloto más joven en hacerlo) y marcando
+la vuelta rápida (1:31.072), terminando sexto. Charles Leclerc (Ferrari) y
+George Russell (Mercedes) completaron el top 5.Fernando Alonso (Aston Martin)
+brilló en la primera vuelta, adelantando a Pierre Gasly para acabar undécimo,
+rozando los puntos. Carlos Sainz (Williams), penalizado con tres posiciones en
+la parrilla (15°), luchó pero finalizó 14°. Sin incidentes mayores, la carrera
+fue estratégica, con Verstappen consolidando su candidatura al título,
+quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en constructores.
+
+
