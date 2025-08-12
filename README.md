@@ -201,3 +201,14 @@ fue estratégica, con Verstappen consolidando su candidatura al título,
 quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en constructores.
 
 
+![Ritmo de carrera — Japón 2025](gp_data/japanese_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Japón 2025](gp_data/japanese_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Japón 2025](gp_data/japanese_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Japón 2025](gp_data/japanese_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Japón 2025](gp_data/japanese_grand_prix_2025/figures/degradacion_ritmo.png)
+
+
