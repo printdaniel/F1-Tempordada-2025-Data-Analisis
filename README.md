@@ -135,6 +135,44 @@ marcando su 50º final 1-2 en la historia de la Fórmula 1.
 ## Degradación de ritmo
 ![Degradacion de ritmo — China 2025](gp_data/chinese_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Japón
 
+## Clasificación de Largada del Gran Premio de Japón 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Max Verstappen             | Red Bull-Honda RBPT           | 1:26.983          | Pole                      |
+| 2        | Lando Norris              | McLaren-Mercedes              | 1:26.995          |                           |
+| 3        | Oscar Piastri             | McLaren-Mercedes              | 1:27.027          |                           |
+| 4        | Charles Leclerc           | Ferrari                       | 1:27.299          |                           |
+| 5        | George Russell            | Mercedes                      | 1:27.318          |                           |
+| 6        | Andrea Kimi Antonelli     | Mercedes                      | 1:27.555          |                           |
+| 7        | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:27.569          |                           |
+| 8        | Lewis Hamilton            | Ferrari                       | 1:27.610          |                           |
+| 9        | Alexander Albon           | Williams-Mercedes             | 1:27.615          |                           |
+| 10       | Oliver Bearman            | Haas-Ferrari                  | 1:27.867          |                           |
+| 11       | Pierre Gasly              | Alpine-Renault                | 1:27.822          |                           |
+| 12       | Fernando Alonso           | Aston Martin-Mercedes         | 1:27.897          |                           |
+| 13       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:27.906          |                           |
+| 14       | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:28.000          |                           |
+| 15       | Carlos Sainz              | Williams-Mercedes             | 1:27.836          | Penalización 3 posiciones  |
+| 16       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:28.570          |                           |
+| 17       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:28.622          |                           |
+| 18       | Esteban Ocon              | Haas-Ferrari                  | 1:28.696          |                           |
+| 19       | Jack Doohan               | Alpine-Renault                | 1:28.877          |                           |
+| 20       | Lance Stroll              | Aston Martin-Mercedes         | 1:29.271          |                           |
+
+## Notas
+- **Fecha**: 5 de abril de 2025 (Clasificación)
+- **Circuito**: Suzuka International Racing Course, Suzuka
+- **Condiciones**: Seco, sin incidentes climáticos significativos
+- **Pole Position**: Max Verstappen (1:26.983, nuevo récord de vuelta en Suzuka)
+- **Penalización**: Carlos Sainz recibió una penalización de 3 posiciones por obstaculizar a Lewis Hamilton en Q2, cayendo del 12° al 15° puesto.
+- **Hitos**:
+  - Cuarta pole consecutiva de Max Verstappen en Japón.
+  - 104ª pole de Red Bull como constructor, 23ª para Honda RBPT como motorista.
+  - Promedio de velocidad de pole: 240.337 km/h.
+- **Observaciones**:
+  - Isack Hadjar destacó con un séptimo puesto a pesar de problemas con el cinturón de seguridad.
+  - Yuki Tsunoda, en su debut con Red Bull en su carrera local, no alcanzó Q3, quedando 14°.
 
