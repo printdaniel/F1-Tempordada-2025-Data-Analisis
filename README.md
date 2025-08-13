@@ -211,4 +211,46 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
 ## Degradación de ritmo
 ![Degradacion de ritmo — Japón 2025](gp_data/japanese_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Bahrain
 
+## Clasificación del Gran Premio de Bahréin 2025
+
+| Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Puntos | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|--------|---------------------------|
+| 1        | Oscar Piastri             | McLaren-Mercedes              | 1:35:39.435       | 25     | Pole, Vuelta rápida       |
+| 2        | George Russell            | Mercedes                      | +15.499           | 18     |                           |
+| 3        | Lando Norris              | McLaren-Mercedes              | +16.273           | 15     | Penalización 5s           |
+| 4        | Charles Leclerc           | Ferrari                       | +19.679           | 12     |                           |
+| 5        | Lewis Hamilton            | Ferrari                       | +27.993           | 10     |                           |
+| 6        | Max Verstappen            | Red Bull-Honda RBPT           | +34.395           | 8      |                           |
+| 7        | Pierre Gasly              | Alpine-Renault                | +36.002           | 6      |                           |
+| 8        | Esteban Ocon              | Haas-Ferrari                  | +44.244           | 4      |                           |
+| 9        | Yuki Tsunoda              | Red Bull-Honda RBPT           | +45.061           | 2      |                           |
+| 10       | Oliver Bearman            | Haas-Ferrari                  | +47.594           | 1      |                           |
+| 11       | Andrea Kimi Antonelli     | Mercedes                      | +48.016           | 0      |                           |
+| 12       | Alexander Albon           | Williams-Mercedes             | +48.839           | 0      |                           |
+| 13       | Isack Hadjar              | Racing Bulls-Honda RBPT       | +56.314           | 0      |                           |
+| 14       | Jack Doohan               | Alpine-Renault                | +57.806           | 0      | Penalización 5s           |
+| 15       | Fernando Alonso           | Aston Martin-Mercedes         | +1:00.340         | 0      |                           |
+| 16       | Liam Lawson               | Racing Bulls-Honda RBPT       | +1:04.435         | 0      | Penalización 15s          |
+| 17       | Lance Stroll              | Aston Martin-Mercedes         | +1:05.489         | 0      |                           |
+| 18       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | +1:06.872         | 0      |                           |
+| DNF      | Carlos Sainz              | Williams-Mercedes             | -                 | 0      | Colisión (Vuelta 45)      |
+| DSQ      | Nico Hülkenberg           | Kick Sauber-Ferrari           | -                 | 0      | Desgaste excesivo skid    |
+
+## Notas
+- **Fecha**: 13 de abril de 2025
+- **Circuito**: Bahrain International Circuit, Sakhir
+- **Vueltas**: 57
+- **Condiciones**: Seco, 26°C, carrera nocturna
+- **Pole Position**: Oscar Piastri (1:29.841)
+- **Vuelta Rápida**: Oscar Piastri (1:35.140, vuelta 36)
+- **Incidentes**:
+  - **Penalizaciones**: Lando Norris (5s, posición incorrecta en parrilla), Jack Doohan (5s, exceder límites de pista), Liam Lawson (15s, colisiones con Stroll y Hülkenberg).
+  - **Descalificación**: Nico Hülkenberg, por desgaste excesivo del skid block.
+  - **Abandono**: Carlos Sainz, daños por colisión con Yuki Tsunoda (vuelta 45).
+  - **Coche de Seguridad**: Desplegado en vuelta 31 por restos en pista tras colisión Tsunoda-Sainz.
+- **Hitos**:
+  - Primera victoria de McLaren en Bahréin.
+  - Oscar Piastri logró el hat-trick (pole, victoria y vuelta rápida), el primero de su carrera.
+  - 50º Gran Premio de Oscar Piastri.
