@@ -254,3 +254,27 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
   - Primera victoria de McLaren en Bahréin.
   - Oscar Piastri logró el hat-trick (pole, victoria y vuelta rápida), el primero de su carrera.
   - 50º Gran Premio de Oscar Piastri.
+
+  ## Resumen
+  El Gran Premio de Bahréin 2025, disputado el 13 de abril en el Bahrain
+  International Circuit bajo condiciones nocturnas (26°C, seco), fue dominado por
+  Oscar Piastri (McLaren), quien logró su segunda victoria de la temporada y el
+  primer hat-trick de su carrera (pole: 1:29.841, victoria: 1:35:39.435, vuelta
+  rápida: 1:35.140). Piastri lideró de principio a fin, consolidando el fuerte
+  inicio de McLaren en el campeonato. George Russell (Mercedes) terminó segundo
+  a 15.499 segundos, mientras que Lando Norris (McLaren) completó el podio en
+  tercero, a pesar de una penalización de 5 segundos por posición incorrecta en
+  la parrilla.La carrera, de 57 vueltas, tuvo momentos de tensión, especialmente
+  una colisión en la vuelta 45 entre Yuki Tsunoda (Red Bull) y Carlos Sainz (Williams),
+  que dejó restos en pista, desencadenó un coche de seguridad y forzó el
+  abandono de Sainz. Nico Hülkenberg (Kick Sauber) fue descalificado tras la
+  carrera por desgaste excesivo del skid block. Otros incidentes incluyeron
+  penalizaciones a Jack Doohan (Alpine, 5s por exceder límites de pista)
+  y Liam Lawson (Racing Bulls, 15s por colisiones con Stroll y Hülkenberg).
+  Ferrari mostró ritmo sólido con Charles Leclerc (4°) y Lewis Hamilton (5°),
+  mientras que Max Verstappen (Red Bull) tuvo una carrera discreta, terminando sexto.
+  La carrera destacó por la estrategia de neumáticos y la gestión en condiciones estables,
+  con McLaren reforzando su liderazgo en el campeonato de constructores y Piastri
+  celebrando su 50º Gran Premio con una actuación impecable.
+
+
