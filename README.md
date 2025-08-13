@@ -277,4 +277,16 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
   con McLaren reforzando su liderazgo en el campeonato de constructores y Piastri
   celebrando su 50º Gran Premio con una actuación impecable.
 
+## Analisis
+
+![Ritmo de carrera — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
