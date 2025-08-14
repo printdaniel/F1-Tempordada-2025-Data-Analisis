@@ -289,4 +289,42 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
 ## Degradación de ritmo
 ![Degradacion de ritmo — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Arabia Saudita
+## Clasificación:
+# Clasificación de Largada del Gran Premio de Arabia Saudita 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Max Verstappen             | Red Bull-Honda RBPT           | 1:27.294          | Pole                      |
+| 2        | Oscar Piastri             | McLaren-Mercedes              | 1:27.304          |                           |
+| 3        | George Russell            | Mercedes                      | 1:27.407          |                           |
+| 4        | Charles Leclerc           | Ferrari                       | 1:27.670          |                           |
+| 5        | Andrea Kimi Antonelli     | Mercedes                      | 1:27.866          |                           |
+| 6        | Carlos Sainz              | Williams-Mercedes             | 1:28.164          |                           |
+| 7        | Lewis Hamilton            | Ferrari                       | 1:28.201          |                           |
+| 8        | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:28.204          |                           |
+| 9        | Pierre Gasly              | Alpine-Renault                | 1:28.367          |                           |
+| 10       | Lando Norris              | McLaren-Mercedes              | Sin tiempo        | Accidente en Q3           |
+| 11       | Alexander Albon           | Williams-Mercedes             | 1:28.109          | Eliminado en Q2           |
+| 12       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:28.191          | Eliminado en Q2           |
+| 13       | Fernando Alonso           | Aston Martin-Mercedes         | 1:28.303          | Eliminado en Q2           |
+| 14       | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:28.418          | Eliminado en Q2           |
+| 15       | Oliver Bearman            | Haas-Ferrari                  | 1:28.648          | Eliminado en Q2           |
+| 16       | Lance Stroll              | Aston Martin-Mercedes         | 1:28.645          | Eliminado en Q1           |
+| 17       | Jack Doohan               | Alpine-Renault                | 1:28.739          | Eliminado en Q1           |
+| 18       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:28.782          | Eliminado en Q1           |
+| 19       | Esteban Ocon              | Haas-Ferrari                  | 1:29.092          | Eliminado en Q1           |
+| 20       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:29.462          | Eliminado en Q1           |
+
+## Notas
+- **Fecha**: 19 de abril de 2025 (Clasificación)
+- **Circuito**: Jeddah Corniche Circuit, Yeda
+- **Condiciones**: Seco, 32°C, carrera nocturna
+- **Pole Position**: Max Verstappen (1:27.294, 42ª pole en F1)
+- **Incidentes**:
+  - **Accidente de Lando Norris**: Norris, líder del campeonato, chocó contra el muro en la curva 5 durante Q3, causando una bandera roja y sin tiempo registrado, partirá 10°.
+  - **Penalización investigada**: Liam Lawson fue investigado por una salida peligrosa en Q2, pero no se aplicaron sanciones en la parrilla.
+- **Hitos**:
+  - Verstappen logró su segunda pole de 2025, superando a Oscar Piastri por solo 0.010 segundos.
+  - Carlos Sainz logró su mejor posición de largada del año (6°).
+  - Fernando Alonso, eliminado en Q2, partirá 13° tras una competitiva sesión.
