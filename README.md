@@ -407,3 +407,33 @@ contendiente al título.
   - Carlos Sainz (6°) y Alexander Albon (7°) destacaron con Williams, logrando su mejor clasificación del año.
   - Kimi Antonelli, en su temporada debut, impresionó con un tercer puesto.
 
+## Resumen del Gran Premio de Miami 2025
+
+El Gran Premio de Miami 2025, disputado el 4 de mayo en el Miami International Autodrome,
+fue un espectáculo dominado por McLaren, con Oscar Piastri logrando su cuarta
+victoria de la temporada (1:28:51.587) y extendiendo su liderato en el
+campeonato de pilotos. Partiendo desde la cuarta posición, Piastri superó a
+Kimi Antonelli (Mercedes) en la vuelta 4 y a Max Verstappen (Red Bull) en la 14,
+tras un intenso duelo en el que Verstappen, desde la pole (1:26.204), tuvo
+problemas con el agarre trasero y un roce con Lando Norris en la primera curva.
+Norris, a pesar de caer al sexto puesto tras el contacto, remontó hasta el
+segundo lugar (+4.630s), asegurando un 1-2 para McLaren. George Russell (Mercedes)
+completó el podio (+37.644s), beneficiándose de un Virtual Safety Car (VSC)
+bien aprovechado.La carrera, bajo condiciones secas tras lluvias previas,
+tuvo drama desde el inicio. Jack Doohan (Alpine) y Liam Lawson (Racing Bulls)
+colisionaron en la primera vuelta, causando el abandono de ambos.
+Gabriel Bortoleto (Sauber) y Oliver Bearman (Haas) también se retiraron por
+problemas de motor, mientras Carlos Sainz (Williams) chocó con Lewis Hamilton (Ferrari)
+en la última vuelta, bajo investigación post-carrera. Alex Albon (Williams)
+brilló con un quinto puesto, consolidando a Williams como una fuerza en la
+media tabla, mientras Ferrari decepcionó, con Charles Leclerc (7°)
+y Hamilton (8°) afectados por órdenes de equipo y falta de ritmo.Un VSC en la
+vuelta 29 por los restos de Bearman y otro en la 33 por el retiro de Bortoleto
+marcaron la estrategia de pits, con McLaren gestionando perfectamente sus paradas.
+Lando Norris marcó la vuelta rápida (1:29.746, vuelta 36). La carrera, con 275,000
+espectadores, destacó el dominio de McLaren, que consolidó su liderato en constructores,
+mientras Piastri se afianzó como favorito al título. El evento también marcó
+el fin de la etapa de Doohan en Alpine, siendo reemplazado por Franco Colapinto
+para la próxima carrera.
+
+
