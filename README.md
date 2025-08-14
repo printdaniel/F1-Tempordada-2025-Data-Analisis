@@ -355,4 +355,16 @@ tenso entre Fernando Alonso y Gabriel Bortoleto añadieron drama. McLaren
 consolidó su liderato en constructores, mientras Piastri emergió como un serio
 contendiente al título.
 
+## Analisis
+
+![Ritmo de carrera — Arabia Saudita 2025](gp_data/saudi_arabian_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Arabia Saudita 2025](gp_data/saudi_arabian_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Arabia Saudita 2025](gp_data/saudi_arabian_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Arabia Saudita 2025](gp_data/saudi_arabian_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Arabia Saudita 2025](gp_data/saudi_arabian_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
