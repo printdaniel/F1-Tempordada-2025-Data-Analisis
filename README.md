@@ -367,4 +367,43 @@ contendiente al título.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Arabia Saudita 2025](gp_data/saudi_arabian_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Miami
+## Clasificación de Largada del Gran Premio de Miami 2025
+
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Max Verstappen             | Red Bull-Honda RBPT           | 1:26.204          | Pole                      |
+| 2        | Lando Norris              | McLaren-Mercedes              | 1:26.269          |                           |
+| 3        | Andrea Kimi Antonelli     | Mercedes                      | 1:26.271          |                           |
+| 4        | Oscar Piastri             | McLaren-Mercedes              | 1:26.375          |                           |
+| 5        | George Russell            | Mercedes                      | 1:26.385          |                           |
+| 6        | Carlos Sainz              | Williams-Mercedes             | 1:26.569          |                           |
+| 7        | Alexander Albon           | Williams-Mercedes             | 1:26.682          |                           |
+| 8        | Charles Leclerc           | Ferrari                       | 1:26.754          |                           |
+| 9        | Esteban Ocon              | Haas-Ferrari                  | 1:26.824          |                           |
+| 10       | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:26.943          |                           |
+| 11       | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:26.987          | Eliminado en Q2           |
+| 12       | Lewis Hamilton            | Ferrari                       | 1:27.006          | Eliminado en Q2           |
+| 13       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:27.151          | Eliminado en Q2           |
+| 14       | Jack Doohan               | Alpine-Renault                | 1:27.186          | Eliminado en Q2           |
+| 15       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:27.363          | Eliminado en Q2           |
+| 16       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:27.473          | Eliminado en Q1           |
+| 17       | Fernando Alonso           | Aston Martin-Mercedes         | 1:27.604          | Eliminado en Q1           |
+| 18       | Pierre Gasly              | Alpine-Renault                | 1:27.710          | Eliminado en Q1           |
+| 19       | Lance Stroll              | Aston Martin-Mercedes         | 1:27.830          | Eliminado en Q1           |
+| 20       | Oliver Bearman            | Haas-Ferrari                  | 1:27.999          | Eliminado en Q1           |
+
+## Notas
+- **Fecha**: 3 de mayo de 2025 (Clasificación)
+- **Circuito**: Miami International Autodrome, Miami
+- **Condiciones**: Seco, 15 minutos de retraso por lluvia previa en la carrera Sprint
+- **Pole Position**: Max Verstappen (1:26.204, tercera pole de 2025)
+- **Incidentes**:
+  - **Accidente previo**: Fernando Alonso sufrió daños en la carrera Sprint tras un choque con Liam Lawson, lo que afectó su rendimiento en Q1 (17°).
+  - **Eliminaciones destacadas**: Lewis Hamilton no avanzó a Q3, quedando 12°. Charles Leclerc tuvo una vuelta anulada en Q3 por exceder límites de pista.
+  - **Sprint previa**: Kimi Antonelli logró la pole para la Sprint (1:26.482), pero en la clasificación principal fue superado por Verstappen.
+- **Hitos**:
+  - Verstappen logró su 42ª pole en F1, consolidando su dominio en circuitos urbanos.
+  - Carlos Sainz (6°) y Alexander Albon (7°) destacaron con Williams, logrando su mejor clasificación del año.
+  - Kimi Antonelli, en su temporada debut, impresionó con un tercer puesto.
 
