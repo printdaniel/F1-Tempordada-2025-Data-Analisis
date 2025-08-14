@@ -444,7 +444,7 @@ para la próxima carrera.
 ## Evolución de Posiciones
 ![Evolución de Posiciones — Miami 2025](gp_data/miami_grand_prix_2025/figures/evolucion_posiciones.png)
 ## Paradas en Boxes
-![Paradas en Boxes — Miami 2025](gp_data/miami_grand__prix_2025/figures/parada_en_boxes.png)
+![Paradas en Boxes — Miami 2025](gp_data/miami_grand_prix_2025/figures/parada_en_boxes.png)
 ## Degradación de ritmo
 [Degradacion de ritmo — Miami 2025](gp_data/miami_grand_prix_2025/figures/degradacion_ritmo.png)
 
