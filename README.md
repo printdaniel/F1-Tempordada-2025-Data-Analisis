@@ -328,3 +328,31 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
   - Verstappen logró su segunda pole de 2025, superando a Oscar Piastri por solo 0.010 segundos.
   - Carlos Sainz logró su mejor posición de largada del año (6°).
   - Fernando Alonso, eliminado en Q2, partirá 13° tras una competitiva sesión.
+
+## Resumen
+El Gran Premio de Arabia Saudita 2025, disputado el 20 de abril en el Jeddah Corniche Circuit,
+fue una carrera vibrante bajo las luces, marcada por un inicio caótico y una
+actuación estelar de Oscar Piastri (McLaren). Piastri, partiendo desde la
+segunda posición, aprovechó un error de Max Verstappen (Red Bull) en la primera
+curva, donde el poleman cortó la curva 2, recibiendo una penalización de 5
+segundos que lo relegó tras su parada en boxes. Piastri lideró con autoridad,
+ganando en 1:21:06.758, logrando su tercera victoria de 2025 y tomando el
+liderato del campeonato de pilotos, el primer australiano en hacerlo desde
+Mark Webber en 2010. Verstappen terminó segundo (+2.843s), y
+Charles Leclerc (Ferrari) logró su primer podio del año en tercero (+8.104s).
+La carrera comenzó con un choque en la primera vuelta entre Yuki Tsunoda
+(Red Bull) y Pierre Gasly (Alpine), que provocó un coche de seguridad y el
+abandono de ambos. Lando Norris (McLaren), partiendo décimo tras un accidente
+en Q3, remontó hasta el cuarto puesto, marcando la vuelta rápida (1:31.778).
+George Russell y Kimi Antonelli (Mercedes) terminaron quinto y sexto, mientras
+que Lewis Hamilton (Ferrari) fue séptimo. Williams brilló con Carlos Sainz (8°)
+y Alexander Albon (9°), logrando su mejor resultado conjunto de la temporada.
+Isack Hadjar (Racing Bulls) cerró los puntos en décimo.La estrategia de una
+parada dominó, con la mayoría optando por medios a duros, aunque Norris usó
+duros a medios para su remontada. Incidentes como la penalización de 10 segundos
+a Liam Lawson (Racing Bulls) por ganar ventaja fuera de pista y un momento
+tenso entre Fernando Alonso y Gabriel Bortoleto añadieron drama. McLaren
+consolidó su liderato en constructores, mientras Piastri emergió como un serio
+contendiente al título.
+
+
