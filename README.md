@@ -290,8 +290,8 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
 ![Degradacion de ritmo — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/degradacion_ritmo.png)
 
 # Gran Premio de Arabia Saudita
-## Clasificación:
-# Clasificación de Largada del Gran Premio de Arabia Saudita 2025
+
+## Clasificación de Largada del Gran Premio de Arabia Saudita 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
 |----------|----------------------------|-------------------------------|-------------------|---------------------------|
