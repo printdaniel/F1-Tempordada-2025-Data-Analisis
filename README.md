@@ -487,3 +487,33 @@ para la próxima carrera.
   - Oscar Piastri logró su segunda pole de 2025, superando a Max Verstappen por 0.034 segundos.
   - Fernando Alonso (5°) y Carlos Sainz (6°) lograron su mejor clasificación de la temporada, destacando las mejoras de Aston Martin y Williams.
   - Isack Hadjar (9°) superó a su compañero Yuki Tsunoda, consolidando su buen momento con Racing Bulls.
+
+
+## Resumen:
+El Gran Premio de Emilia-Romaña 2025, disputado el 18 de mayo en el
+Autodromo Enzo e Dino Ferrari, Imola, fue una carrera estratégica marcada por un
+inicio audaz y dos interrupciones clave. Max Verstappen (Red Bull) se llevó la
+victoria (1:31:33.199), su segunda de la temporada, tras superar al poleman
+Oscar Piastri (McLaren) en la curva Tamburello de la primera vuelta con una
+maniobra arriesgada por el exterior. Lando Norris (McLaren) remontó desde el
+cuarto puesto para terminar segundo (+6.109s), adelantando a Piastri (+12.956s)
+en la vuelta 58 tras un Safety Car tardío, asegurando un podio 2-3 para McLaren.
+Lewis Hamilton (Ferrari) brilló con una recuperación desde el 12° hasta
+el 4° puesto, mientras Alexander Albon (Williams) logró un sólido 5°.
+La carrera, de 63 vueltas, se vio alterada por un Virtual Safety Car (vuelta 29)
+tras el abandono de Esteban Ocon (Haas) por fallo mecánico y un Safety Car
+completo (vuelta 46) por el retiro de Kimi Antonelli (Mercedes) en una
+posición peligrosa. Estos incidentes beneficiaron a Verstappen, que gestionó su
+ventaja tras su parada en boxes, y permitieron a Norris superar a Piastri, quien
+sufrió con el timing de las paradas. Charles Leclerc (Ferrari) remontó al
+6° desde el 11°, pero Ferrari decepcionó en casa. Yuki Tsunoda (Red Bull), tras
+un accidente en Q1, remontó desde el pitlane al 10°, sumando un punto.Williams
+destacó con Carlos Sainz (8°) y Albon, mientras Isack Hadjar (Racing Bulls)
+puntuó en 9°. La pista, conocida por su dificultad para adelantar, puso
+énfasis en la estrategia de neumáticos (C4-C6 de Pirelli) y la clasificación,
+con McLaren manteniendo su liderato en constructores y Piastri liderando el
+campeonato de pilotos por 13 puntos sobre Norris. El evento, con 242,000
+espectadores, marcó el 400º Gran Premio de Red Bull y el último de Imola en el
+calendario de F1, ya que no está programado para 2026.
+
+
