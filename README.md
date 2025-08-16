@@ -9,7 +9,6 @@ rendimiento y otros aspectos clave de las carreras. El proyecto
 emplea Python junto con bibliotecas como Matplotlib, Seaborn y
 Plotly para producir análisis visuales y reportes.
 
-
 # Clasificación del Gran Premio de Australia 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Notas                     |
@@ -68,7 +67,6 @@ consolidando su liderazgo en el campeonato de constructores.
 ![Paradas en Boxes — Australia 2025](gp_data/australian_grand_prix_2025/figures/parada_en_boxes.png)
 ## Degradación de ritmo
 ![Degradacion de ritmo — Australia 2025](gp_data/australian_grand_prix_2025/figures/degradacion_ritmo.png)
-
 
 # Clasificación del Gran Premio de China 2025
 
@@ -448,4 +446,44 @@ para la próxima carrera.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Miami 2025](gp_data/miami_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Emilia Romagna
+## Clasificación
+# Clasificación de Largada del Gran Premio de Emilia-Romaña 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Oscar Piastri             | McLaren-Mercedes              | 1:14.670          | Pole                      |
+| 2        | Max Verstappen            | Red Bull-Honda RBPT           | 1:14.704          |                           |
+| 3        | George Russell            | Mercedes                      | 1:14.807          |                           |
+| 4        | Lando Norris              | McLaren-Mercedes              | 1:14.962          |                           |
+| 5        | Fernando Alonso           | Aston Martin-Mercedes         | 1:15.431          |                           |
+| 6        | Carlos Sainz              | Williams-Mercedes             | 1:15.432          |                           |
+| 7        | Alexander Albon           | Williams-Mercedes             | 1:15.473          |                           |
+| 8        | Lance Stroll              | Aston Martin-Mercedes         | 1:15.581          |                           |
+| 9        | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:15.746          |                           |
+| 10       | Pierre Gasly              | Alpine-Renault                | 1:15.787          |                           |
+| 11       | Charles Leclerc           | Ferrari                       | 1:15.604          | Eliminado en Q2           |
+| 12       | Lewis Hamilton            | Ferrari                       | 1:15.765          | Eliminado en Q2           |
+| 13       | Andrea Kimi Antonelli     | Mercedes                      | 1:15.772          | Eliminado en Q2           |
+| 14       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:16.260          | Eliminado en Q2           |
+| 15       | Franco Colapinto          | Alpine-Renault                | 1:16.256          | Eliminado en Q2, Penalización 1 posición |
+| 16       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:16.379          | Eliminado en Q1           |
+| 17       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:16.518          | Eliminado en Q1           |
+| 18       | Esteban Ocon              | Haas-Ferrari                  | 1:16.613          | Eliminado en Q1           |
+| 19       | Oliver Bearman            | Haas-Ferrari                  | 1:16.918          | Eliminado en Q1           |
+| 20       | Yuki Tsunoda              | Red Bull-Honda RBPT           | Sin tiempo        | Eliminado en Q1, Accidente |
+
+## Notas
+- **Fecha**: 17 de mayo de 2025 (Clasificación)
+- **Circuito**: Autodromo Enzo e Dino Ferrari, Imola
+- **Condiciones**: Seco, pista complicada por gestión de neumáticos blandos
+- **Pole Position**: Oscar Piastri (1:14.670, McLaren)
+- **Incidentes**:
+  - **Accidente de Yuki Tsunoda**: Choque en Q1 al tocar un piano, causando bandera roja; partirá 20° tras volcar, pero salió ileso.
+  - **Accidente de Franco Colapinto**: Choque en Q1, pero avanzó a Q2 con tiempo previo; penalización de 1 posición por salir antes de tiempo tras reanudación.
+  - **Eliminaciones sorpresivas**: Ferrari decepcionó con Charles Leclerc (11°) y Lewis Hamilton (12°) fuera de Q3, al igual que Kimi Antonelli (13°, Mercedes).
+  - **Retraso en Q2**: La FIA retrasó Q2 para revisar el tiempo de Oliver Bearman, anulado por bandera roja, generando críticas por la gestión.
+- **Hitos**:
+  - Oscar Piastri logró su segunda pole de 2025, superando a Max Verstappen por 0.034 segundos.
+  - Fernando Alonso (5°) y Carlos Sainz (6°) lograron su mejor clasificación de la temporada, destacando las mejoras de Aston Martin y Williams.
+  - Isack Hadjar (9°) superó a su compañero Yuki Tsunoda, consolidando su buen momento con Racing Bulls.
