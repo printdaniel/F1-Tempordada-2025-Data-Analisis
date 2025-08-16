@@ -516,4 +516,14 @@ campeonato de pilotos por 13 puntos sobre Norris. El evento, con 242,000
 espectadores, marcó el 400º Gran Premio de Red Bull y el último de Imola en el
 calendario de F1, ya que no está programado para 2026.
 
+![Ritmo de carrera — Emilia Romagna 2025](gp_data/emilia_romagna_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Emilia Romagan 2025](gp_data/emilia_romagna_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Emilia Romagan 2025](gp_data/emilia_romagna_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Emilia Romagna 2025](gp_data/emilia_romagna_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Emilia Romagna 2025](gp_data/emilia_romagna_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
