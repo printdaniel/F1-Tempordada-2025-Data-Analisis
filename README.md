@@ -565,4 +565,28 @@ calendario de F1, ya que no está programado para 2026.
 - **Hitos**:
   - Lando Norris logró la pole más rápida en la historia de Mónaco, superando el récord anterior de Charles Leclerc (1:10.270 en 2024).
   - Fernando Alonso (6°) logró su mejor clasificación de 2025, destacando las mejoras de Aston Martin.
-  - Isack Hadjar (5°) impresionó en su primera clasificación en Mónaco con Racing Bulls.
+  - Isack Hadjar (5°) impresionó en jsu primera clasificación en Mónaco con Racing Bulls.
+
+## Resumen de la carrera:
+El Gran Premio de Mónaco 2025, disputado el 25 de mayo en el Circuito de Mónaco,
+fue una carrera estratégica marcada por la precisión y el drama en las estrechas
+calles de Montecarlo. Lando Norris (McLaren) convirtió su pole position
+(1:09.954, récord de pista) en una victoria magistral (1:40:33.843), la
+segunda de su temporada, liderando de principio a fin y marcando la vuelta rápida
+(1:13.221, vuelta 78). Charles Leclerc (Ferrari) emocionó a los aficionados
+locales con un segundo puesto (+3.131s), mientras que Oscar Piastri (McLaren)
+completó el podio (+3.658s), asegurando un 1-3 para McLaren, su primera victoria en Mónaco desde 2008.
+
+La carrera, de 78 vueltas, estuvo condicionada por una nueva regla de dos paradas
+obligatorias con tres compuestos de neumáticos, diseñada para añadir estrategia,
+pero que no evitó que la dificultad para adelantar en Mónaco definiera la carrera.
+El inicio vio drama inmediato: Gabriel Bortoleto (Sauber) chocó contra las
+barreras en Portier tras un intento de adelantamiento de Kimi Antonelli
+(Mercedes), desencadenando un Virtual Safety Car (VSC) en la vuelta 1.
+Esto permitió paradas tempranas de Yuki Tsunoda, Pierre Gasly y Oliver Bearman.
+En la vuelta 9, Gasly chocó contra Tsunoda en la Nouvelle Chicane por un fallo
+de frenos, retirándose y dejando escombros que se limpiaron bajo banderas amarillas.
+
+
+
+
