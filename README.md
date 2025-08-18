@@ -526,4 +526,43 @@ calendario de F1, ya que no está programado para 2026.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Emilia Romagna 2025](gp_data/emilia_romagna_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Monaco Grand Prix
+## Clasificación de Largada del Gran Premio de Mónaco 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Lando Norris              | McLaren-Mercedes              | 1:09.954          | Pole, Récord de pista     |
+| 2        | Charles Leclerc           | Ferrari                       | 1:10.063          |                           |
+| 3        | Oscar Piastri             | McLaren-Mercedes              | 1:10.129          |                           |
+| 4        | Max Verstappen            | Red Bull-Honda RBPT           | 1:10.669          |                           |
+| 5        | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:10.923          |                           |
+| 6        | Fernando Alonso           | Aston Martin-Mercedes         | 1:10.924          |                           |
+| 7        | Lewis Hamilton            | Ferrari                       | 1:10.382          | Penalización 3 posiciones  |
+| 8        | Esteban Ocon              | Haas-Ferrari                  | 1:10.942          |                           |
+| 9        | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:11.129          |                           |
+| 10       | Alexander Albon           | Williams-Mercedes             | 1:11.213          |                           |
+| 11       | Carlos Sainz              | Williams-Mercedes             | 1:11.362          | Eliminado en Q2           |
+| 12       | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:11.415          | Eliminado en Q2           |
+| 13       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:11.596          | Eliminado en Q2           |
+| 14       | George Russell            | Mercedes                      | Sin tiempo        | Eliminado en Q2, Problemas técnicos |
+| 15       | Kimi Antonelli            | Mercedes                      | Sin tiempo        | Eliminado en Q2, Accidente Q1 |
+| 16       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:11.902          | Eliminado en Q1           |
+| 17       | Pierre Gasly              | Alpine-Renault                | 1:11.994          | Eliminado en Q1           |
+| 18       | Franco Colapinto          | Alpine-Renault                | 1:12.597          | Eliminado en Q1           |
+| 19       | Lance Stroll              | Aston Martin-Mercedes         | 1:12.563          | Eliminado en Q1, Penalización 1 posición |
+| 20       | Oliver Bearman            | Haas-Ferrari                  | 1:11.979          | Eliminado en Q1, Penalización 10 posiciones |
+
+## Notas
+- **Fecha**: 24 de mayo de 2025 (Clasificación)
+- **Circuito**: Circuito de Mónaco, Montecarlo (3.337 km)
+- **Condiciones**: Seco, 21.3°C, asfalto 39°C, humedad 59%
+- **Pole Position**: Lando Norris (1:09.954, nuevo récord de pista, 11ª pole en F1, 2ª de 2025)
+- **Incidentes**:
+  - **Penalizaciones**: Lewis Hamilton recibió una penalización de 3 posiciones por obstaculizar a Max Verstappen. Lance Stroll penalizado con 1 posición y Oliver Bearman con 10 posiciones por incidentes en entrenamientos libres.
+  - **Accidentes**: Kimi Antonelli chocó en Q1 (salida del túnel), causando bandera roja y daños que lo excluyeron de Q2. Franco Colapinto fue afectado por esta bandera roja, quedando 20°.
+  - **Problemas técnicos**: George Russell sufrió una pérdida de potencia en el túnel durante Q2, causando otra bandera roja y quedando sin tiempo.
+  - **Eliminaciones destacadas**: Ferrari decepcionó con Charles Leclerc (2°) perdiendo la pole ante Norris. Carlos Sainz (11°) y Yuki Tsunoda (12°) no avanzaron a Q3.
+- **Hitos**:
+  - Lando Norris logró la pole más rápida en la historia de Mónaco, superando el récord anterior de Charles Leclerc (1:10.270 en 2024).
+  - Fernando Alonso (6°) logró su mejor clasificación de 2025, destacando las mejoras de Aston Martin.
+  - Isack Hadjar (5°) impresionó en su primera clasificación en Mónaco con Racing Bulls.
