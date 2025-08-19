@@ -751,5 +751,15 @@ pero el choque entre Piastri y Norris generó debate sobre su rivalidad interna.
 El evento, que marcó las 200 carreras de Haas y las 100 de Alpine, atrajo a 350,000
 espectadores, consolidando a Canadá como una cita vibrante en el calendario.
 
+![Ritmo de carrera — Canada 2025](gp_data/canadian_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Canada 2025](gp_data/canadian_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Canada 2025](gp_data/canadian_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Canada 2025](gp_data/canadian_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Canada 2025](gp_data/canadian_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
 
