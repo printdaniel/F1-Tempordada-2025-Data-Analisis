@@ -636,3 +636,34 @@ de frenos, retirándose y dejando escombros que se limpiaron bajo banderas amari
   - McLaren dominó con un 1-2 en la clasificación, con Piastri superando a Norris por 0.2 segundos
   - Fernando Alonso (8°) logró una sólida posición para Aston Martin, mostrando mejoras en el AMR25
   - Isack Hadjar (6°, Racing Bulls) destacó con su mejor clasificación de la temporada.
+
+## Resumen del Gran Premio de España 2025
+El Gran Premio de España 2025, disputado el 1 de junio en el Circuit de
+Barcelona-Catalunya, fue una carrera dominada por McLaren, con Oscar Piastri
+logrando su quinta victoria de la temporada (1:29:24.615) desde la pole position
+(1:12.041). Piastri mantuvo el liderato desde la salida, ampliando su ventaja en
+el campeonato de pilotos a 10 puntos. Lando Norris aseguró el segundo puesto
+(+1.398s) tras superar a Max Verstappen (Red Bull) en la vuelta 1, completando
+un nuevo 1-2 para McLaren. Charles Leclerc (Ferrari) cerró el podio (+7.842s),
+capitalizando una penalización de 10 segundos a Verstappen por colisionar con
+George Russell (Mercedes), lo que relegó al neerlandés al décimo lugar.La
+carrera, de 66 vueltas, estuvo marcada por dos interrupciones: un Virtual
+Safety Car (vuelta 29) por el abandono de Esteban Ocon (Haas) debido a un
+fallo mecánico y un Safety Car (vuelta 61) tras el accidente de Kimi Antonelli
+(Mercedes) en la curva 10, que también forzó el retiro de Alexander Albon
+(Williams) por daños colaterales. La relanzada tras el Safety Car favoreció a
+los McLaren, que usaron neumáticos blandos frente al duro de Verstappen,
+asegurando el doblete. Nico Hülkenberg (Sauber) sorprendió con un sexto puesto,
+mientras Fernando Alonso (Aston Martin) remontó desde el octavo lugar para
+terminar noveno (+37.892s), sumando sus primeros puntos de 2025 tras adelantar
+a Liam Lawson (Racing Bulls) en las últimas vueltas. Carlos Sainz (Williams)
+tuvo un fin de semana complicado, partiendo 13° y finalizando 11°, fuera de
+los puntos.Lance Stroll (Aston Martin) no participó debido a dolores en la mano,
+dejando a Alonso como único representante del equipo. La carrera destacó por la
+estrategia de neumáticos (blandos predominantes tras el Safety Car) y el fuerte
+ritmo de McLaren, que consolidó su liderato en el campeonato de constructores.
+Los 140,000 espectadores disfrutaron de una carrera vibrante, con Alonso
+celebrando su resultado como un hito para Aston Martin en el 75º aniversario de la Fórmula 1.
+
+
+
