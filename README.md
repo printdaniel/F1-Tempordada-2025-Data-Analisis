@@ -715,5 +715,41 @@ celebrando su resultado como un hito para Aston Martin en el 75º aniversario de
   - Franco Colapinto (10°, Alpine) logró su mejor clasificación en F1, avanzando a Q2 por primera vez con Alpine.
   - Fernando Alonso (6°, Aston Martin) consolidó su buen momento con su cuarta Q3 consecutiva.
 
+## Resumen:
+El Gran Premio de Canadá 2025, disputado el 15 de junio en el Circuito Gilles Villeneuve,
+Montreal, fue una carrera emocionante marcada por el dominio de George Russell (Mercedes),
+quien convirtió su pole position (1:10.899) en su primera victoria de la temporada (1:31:52.688).
+Russell lideró de principio a fin, resistiendo la presión de Max Verstappen (Red Bull),
+que terminó segundo (+0.228s) tras una sólida carrera. Kimi Antonelli (Mercedes)
+logró un hito al terminar tercero (+0.492s), convirtiéndose, a los 18 años y 294 días,
+en el tercer piloto más joven en subir al podio en la historia de la F1, y el primer italiano
+desde Jarno Trulli en 2009.
+
+La carrera, de 70 vueltas, se vio alterada por un dramático choque en las últimas
+vueltas (vuelta 67) entre los compañeros de McLaren, Oscar Piastri y Lando Norris,
+cuando Norris intentó adelantar a Piastri, impactando contra el Muro de los Campeones.
+Esto provocó la salida del Safety Car y el abandono de Norris, quien asumió la
+culpa y recibió una penalización de 5 segundos, aunque no afectó su resultado
+al no terminar. Piastri salvó un cuarto puesto, ampliando su liderato en
+el campeonato de pilotos a 22 puntos. Alexander Albon (Williams) también
+abandonó por un fallo de motor tras una salida de pista en la vuelta 48,
+mientras que Liam Lawson (Racing Bulls) se retiró por sobrecalentamiento.
+
+Fernando Alonso (Aston Martin) brilló, remontando desde el sexto lugar para terminar
+séptimo, el mejor del resto, mostrando el potencial del AMR25. Charles Leclerc (Ferrari)
+finalizó sexto tras una estrategia conservadora de dos paradas, mientras
+Lewis Hamilton (Ferrari) tuvo un fin de semana frustrante, terminando octavo
+tras dañar el suelo de su coche al atropellar una marmota. Carlos Sainz (Williams)
+remontó desde el 16° al décimo puesto, pero Williams decepcionó tras una clasificación
+afectada por tráfico y problemas técnicos, como la pérdida del cubremotor de Albon.
+Franco Colapinto (Alpine) puntuó en noveno, un logro notable en su debut con el equipo.
+
+La carrera, con temperaturas suaves que favorecieron a Mercedes, tuvo una bandera
+amarilla tras el abandono de Albon y terminó bajo Safety Car, neutralizando las
+últimas vueltas. McLaren mantuvo su liderato en constructores,
+pero el choque entre Piastri y Norris generó debate sobre su rivalidad interna.
+El evento, que marcó las 200 carreras de Haas y las 100 de Alpine, atrajo a 350,000
+espectadores, consolidando a Canadá como una cita vibrante en el calendario.
+
 
 
