@@ -597,6 +597,42 @@ de frenos, retirándose y dejando escombros que se limpiaron bajo banderas amari
 ## Degradación de ritmo
 ![Degradacion de ritmo — Mónaco 2025](gp_data/monaco_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Preio de España
+## Clasificación de Largada del Gran Premio de España 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Oscar Piastri             | McLaren-Mercedes              | 1:12.041          | Pole                      |
+| 2        | Lando Norris              | McLaren-Mercedes              | 1:12.241          |                           |
+| 3        | Max Verstappen            | Red Bull-Honda RBPT           | 1:12.312          |                           |
+| 4        | Charles Leclerc           | Ferrari                       | 1:12.456          |                           |
+| 5        | George Russell            | Mercedes                      | 1:12.581          |                           |
+| 6        | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:12.673          |                           |
+| 7        | Kimi Antonelli            | Mercedes                      | 1:12.789          |                           |
+| 8        | Fernando Alonso           | Aston Martin-Mercedes         | 1:12.974          |                           |
+| 9        | Lewis Hamilton            | Ferrari                       | 1:13.013          |                           |
+| 10       | Esteban Ocon              | Haas-Ferrari                  | 1:13.126          |                           |
+| 11       | Alexander Albon           | Williams-Mercedes             | 1:13.245          | Eliminado en Q2           |
+| 12       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:13.389          | Eliminado en Q2           |
+| 13       | Carlos Sainz              | Williams-Mercedes             | 1:13.402          | Eliminado en Q2           |
+| 14       | Pierre Gasly              | Alpine-Renault                | 1:13.567          | Eliminado en Q2           |
+| 15       | Oliver Bearman            | Haas-Ferrari                  | 1:13.782          | Eliminado en Q2           |
+| 16       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:13.891          | Eliminado en Q1           |
+| 17       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:14.012          | Eliminado en Q1           |
+| 18       | Franco Colapinto          | Alpine-Renault                | 1:14.156          | Eliminado en Q1, Problema técnico |
+| 19       | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:14.297          | Eliminado en Q1           |
+| 20       | Lance Stroll              | Aston Martin-Mercedes         | Sin tiempo        | No participó, Lesión      |
 
-
+## Notas
+- **Fecha**: 31 de mayo de 2025 (Clasificación)
+- **Circuito**: Circuit de Barcelona-Catalunya, Montmeló (4.657 km)
+- **Condiciones**: Seco, asfalto mejorando tras lluvias previas
+- **Pole Position**: Oscar Piastri (1:12.041, McLaren, tercera pole de 2025)
+- **Incidentes**:
+  - **Problema técnico de Franco Colapinto**: El piloto argentino de Alpine sufrió un fallo en su monoplaza A525 al salir de boxes en Q1, quedándose varado dos veces y sin poder completar una tercera vuelta, por lo que partirá 18°.[](https://www.tycsports.com/automovilismo/f1-horario-y-donde-ver-en-vivo-la-clasificacion-del-gp-de-espana-id664545.html)[](https://www.infobae.com/deportes/2025/05/31/franco-colapinto-afrontara-la-ultima-practica-y-la-clasificacion-del-gran-premio-de-espana-con-alpine-hora-tv-y-todo-lo-que-hay-que-saber/)
+  - **No participación de Lance Stroll**: Stroll se ausentó por una lesión, dejando a Aston Martin con un solo coche (Alonso).
+  - **Eliminaciones destacadas**: Carlos Sainz (13°, Williams) no avanzó a Q3, afectado por el equilibrio del coche. Yuki Tsunoda (19°, Red Bull) tuvo una sesión decepcionante.
+- **Hitos**:
+  - McLaren dominó con un 1-2 en la clasificación, con Piastri superando a Norris por 0.2 segundos
+  - Fernando Alonso (8°) logró una sólida posición para Aston Martin, mostrando mejoras en el AMR25
+  - Isack Hadjar (6°, Racing Bulls) destacó con su mejor clasificación de la temporada.
