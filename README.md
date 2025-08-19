@@ -675,5 +675,45 @@ celebrando su resultado como un hito para Aston Martin en el 75º aniversario de
 ## Degradación de ritmo
 ![Degradacion de ritmo — España 2025](gp_data/spanish_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Canada
+## Clasificación de Largada del Gran Premio de Canadá 2025
+
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | George Russell            | Mercedes                      | 1:10.899          | Pole                      |
+| 2        | Max Verstappen            | Red Bull-Honda RBPT           | 1:10.934          |                           |
+| 3        | Oscar Piastri             | McLaren-Mercedes              | 1:11.103          |                           |
+| 4        | Kimi Antonelli            | Mercedes                      | 1:11.186          |                           |
+| 5        | Lando Norris              | McLaren-Mercedes              | 1:11.248          |                           |
+| 6        | Fernando Alonso           | Aston Martin-Mercedes         | 1:11.586          |                           |
+| 7        | Charles Leclerc           | Ferrari                       | 1:11.654          |                           |
+| 8        | Lewis Hamilton            | Ferrari                       | 1:11.829          |                           |
+| 9        | Esteban Ocon              | Haas-Ferrari                  | 1:12.154          | Penalización 3 posiciones  |
+| 10       | Franco Colapinto          | Alpine-Renault                | 1:11.973          | Avanzó a Q2               |
+| 11       | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:11.892          | Penalización 3 posiciones  |
+| 12       | Oliver Bearman            | Haas-Ferrari                  | 1:12.013          | Eliminado en Q2           |
+| 13       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:12.109          | Eliminado en Q2           |
+| 14       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:12.245          | Eliminado en Q2           |
+| 15       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:12.387          | Eliminado en Q2           |
+| 16       | Carlos Sainz              | Williams-Mercedes             | 1:12.497          | Eliminado en Q1           |
+| 17       | Alexander Albon           | Williams-Mercedes             | 1:12.604          | Eliminado en Q1, Cubremotor perdido |
+| 18       | Lance Stroll              | Aston Martin-Mercedes         | 1:12.789          | Eliminado en Q1           |
+| 19       | Pierre Gasly              | Alpine-Renault                | 1:13.012          | Eliminado en Q1, Pitlane  |
+| 20       | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:12.896          | Eliminado en Q1, Pitlane  |
+
+## Notas
+- **Fecha**: 14 de junio de 2025 (Clasificación)
+- **Circuito**: Circuito Gilles Villeneuve, Montreal (4.361 km)
+- **Condiciones**: Seco, 22°C, asfalto 35°C
+- **Pole Position**: George Russell (1:10.899, Mercedes, primera pole de 2025, segunda consecutiva en Canadá)
+- **Incidentes**:
+  - **Penalizaciones**: Isack Hadjar (3 posiciones por obstaculizar a Carlos Sainz en Q1). Esteban Ocon (3 posiciones por incidente en entrenamientos). Yuki Tsunoda (10 posiciones por adelantar bajo bandera roja en FP3, partirá desde pitlane). Pierre Gasly (pitlane por cambio de unidad de potencia).
+  - **Problema técnico**: Alexander Albon perdió la cubierta del motor en Q1, causando una bandera roja.
+  - **Eliminaciones destacadas**: Carlos Sainz (16°, Williams) afectado por tráfico y suciedad en pista. Charles Leclerc (7°, Ferrari) y Lando Norris (5°, McLaren) no cumplieron expectativas.
+- **Hitos**:
+  - George Russell sorprendió con la pole, superando a Max Verstappen por 0.035 segundos.
+  - Franco Colapinto (10°, Alpine) logró su mejor clasificación en F1, avanzando a Q2 por primera vez con Alpine.
+  - Fernando Alonso (6°, Aston Martin) consolidó su buen momento con su cuarta Q3 consecutiva.
+
 
 
