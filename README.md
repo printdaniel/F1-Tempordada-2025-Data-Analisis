@@ -761,5 +761,43 @@ espectadores, consolidando a Canadá como una cita vibrante en el calendario.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Canada 2025](gp_data/canadian_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Australia
 
+## Clasificación de Largada del Gran Premio de Australia 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Lando Norris              | McLaren-Mercedes              | 1:15.096          | Pole                      |
+| 2        | Oscar Piastri             | McLaren-Mercedes              | 1:15.180          |                           |
+| 3        | Max Verstappen            | Red Bull-Honda RBPT           | 1:15.481          |                           |
+| 4        | George Russell            | Mercedes                      | 1:15.528          |                           |
+| 5        | Yuki Tsunoda              | Racing Bulls-Honda RBPT       | 1:15.639          |                           |
+| 6        | Alexander Albon           | Williams-Mercedes             | 1:15.770          |                           |
+| 7        | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:15.833          |                           |
+| 8        | Pierre Gasly              | Alpine-Renault                | 1:15.914          |                           |
+| 9        | Lance Stroll              | Aston Martin-Mercedes         | 1:16.029          |                           |
+| 10       | Carlos Sainz              | Williams-Mercedes             | 1:16.132          |                           |
+| 11       | Lewis Hamilton            | Ferrari                       | 1:16.208          | Eliminado en Q2           |
+| 12       | Fernando Alonso           | Aston Martin-Mercedes         | 1:16.269          | Eliminado en Q2           |
+| 13       | Charles Leclerc           | Ferrari                       | 1:16.387          | Eliminado en Q2           |
+| 14       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:16.512          | Eliminado en Q2           |
+| 15       | Jack Doohan               | Alpine-Renault                | 1:16.678          | Eliminado en Q2           |
+| 16       | Andrea Kimi Antonelli     | Mercedes                      | 1:16.894          | Eliminado en Q1           |
+| 17       | Liam Lawson               | Red Bull-Honda RBPT           | 1:17.013          | Eliminado en Q1           |
+| 18       | Esteban Ocon              | Haas-Ferrari                  | 1:17.256          | Eliminado en Q1           |
+| 19       | Oliver Bearman            | Haas-Ferrari                  | Sin tiempo        | Eliminado en Q1, Problema técnico |
+| 20       | Isack Hadjar              | Racing Bulls-Honda RBPT       | Sin tiempo        | Eliminado en Q1, Accidente |
+
+## Notas
+- **Fecha**: 15 de marzo de 2025 (Clasificación)
+- **Circuito**: Albert Park Circuit, Melbourne (5.278 km)
+- **Condiciones**: Seco, con amenaza de lluvia
+- **Pole Position**: Lando Norris (1:15.096, McLaren, primera pole de 2025)
+- **Incidentes**:
+  - **Accidente de Isack Hadjar**: El debutante de Racing Bulls chocó en Q1, causando una bandera roja y no registró tiempo, partirá 20°.
+  - **Problema técnico de Oliver Bearman**: Falla en la caja de cambios de su Haas le impidió marcar un tiempo en Q1.
+  - **Eliminaciones sorpresivas**: Andrea Kimi Antonelli (16°, Mercedes) y Liam Lawson (17°, Red Bull) decepcionaron en su debut, no avanzando a Q2. Ferrari tuvo un mal día con Charles Leclerc (13°) y Lewis Hamilton (11°) fuera de Q3.
+- **Hitos**:
+  - McLaren logró un 1-2 en la clasificación, con Lando Norris superando a Oscar Piastri por 0.084 segundos.
+  - Yuki Tsunoda (5°, Racing Bulls) y Alexander Albon (6°, Williams) destacaron con sólidas actuaciones, entrando en Q3.
+  - Carlos Sainz (10°, Williams) alcanzó Q3, mientras que Fernando Alonso (12°, Aston Martin) no logró avanzar, afectado por el equilibrio del coche.
