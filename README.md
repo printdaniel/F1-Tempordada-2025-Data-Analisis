@@ -826,3 +826,14 @@ esperado. La carrera, con 19 vueltas neutralizadas, mostró el dominio de
 McLaren, que lideró el campeonato de constructores, y consolidó a Norris como
 favorito inicial al título.
 
+![Ritmo de carrera — Australia 2025](gp_data/australian_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Australia 2025](gp_data/australian_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Australia 2025](gp_data/australian_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Australia 2025](gp_data/australian_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Australia 2025](gp_data/australian_grand_prix_2025/figures/degradacion_ritmo.png)
+
+
