@@ -801,3 +801,28 @@ espectadores, consolidando a Canadá como una cita vibrante en el calendario.
   - McLaren logró un 1-2 en la clasificación, con Lando Norris superando a Oscar Piastri por 0.084 segundos.
   - Yuki Tsunoda (5°, Racing Bulls) y Alexander Albon (6°, Williams) destacaron con sólidas actuaciones, entrando en Q3.
   - Carlos Sainz (10°, Williams) alcanzó Q3, mientras que Fernando Alonso (12°, Aston Martin) no logró avanzar, afectado por el equilibrio del coche.
+
+## Resumen:
+El Gran Premio de Australia 2025, disputado el 16 de marzo en el Albert Park Circuit,
+Melbourne, marcó el inicio de la temporada de Fórmula 1 con una carrera
+caótica bajo lluvia intermitente. Lando Norris (McLaren) convirtió su pole
+position (1:15.096) en una victoria dominante (1:42:06.304), liderando de
+principio a fin y marcando la vuelta rápida (1:22.167). Max Verstappen
+(Red Bull) finalizó segundo (+0.895s), mientras que George Russell (Mercedes)
+completó el podio (+8.481s).La carrera, reducida a 57 vueltas tras un accidente
+de Isack Hadjar (Racing Bulls) en la vuelta de formación, estuvo plagada de
+incidentes y tres períodos de Safety Car. En la primera vuelta, Carlos Sainz
+(Williams) y Jack Doohan (Alpine) abandonaron tras choques bajo la lluvia.
+Fernando Alonso (Aston Martin) se retiró en la vuelta 32 tras trompear en la
+curva 7 por grava en la pista, y Liam Lawson (Red Bull) y Gabriel Bortoleto
+(Sauber) chocaron en las vueltas 46 y 45, respectivamente. Kimi Antonelli
+(Mercedes) impresionó en su debut, terminando cuarto tras la anulación de una
+penalización de 5 segundos por un relanzamiento inseguro, sumando sus primeros
+puntos como el segundo piloto más joven en lograrlo.Oscar Piastri (McLaren), a
+pesar de partir segundo, cayó al noveno puesto tras una salida de pista en la
+curva 6. Williams destacó con Alexander Albon en quinto, mientras Ferrari
+decepcionó, con Charles Leclerc (8°) y Lewis Hamilton (10°) lejos del ritmo
+esperado. La carrera, con 19 vueltas neutralizadas, mostró el dominio de
+McLaren, que lideró el campeonato de constructores, y consolidó a Norris como
+favorito inicial al título.
+
