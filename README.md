@@ -875,3 +875,39 @@ favorito inicial al título.
   - Max Verstappen logró la pole por apenas 0.103 segundos sobre Oscar Piastri, en una Q3 extremadamente cerrada (menos de 0.25 segundos entre los seis primeros).
   - Fernando Alonso (7°, Aston Martin) y Carlos Sainz (9°, Williams) destacaron, entrando en Q3 con mejoras en sus coches.
   - Kimi Antonelli (10° tras penalización) mostró ritmo competitivo en su primera clasificación en Silverstone.
+
+## Resumen
+El Gran Premio de Gran Bretaña 2025, disputado el 6 de julio en el Silverstone Circuit,
+fue una carrera caótica marcada por la lluvia y condiciones cambiantes,
+resultando en una victoria memorable para Lando Norris (McLaren). Norris,
+partiendo tercero, se benefició de una penalización de 10 segundos a su
+compañero Oscar Piastri por una deceleración brusca durante un reinicio del
+Safety Car en la vuelta 21, que casi provoca un choque con Max Verstappen
+(Red Bull). Norris cruzó la meta primero (1:24:27.614), logrando su tercera
+victoria de 2025 y la primera en casa, con Piastri segundo (+5.312s),
+asegurando un 1-2 para McLaren, su primero en Silverstone desde 2000.
+Nico Hülkenberg (Sauber) logró un histórico tercer puesto (+12.456s), su
+primer podio en 239 carreras, el primero para Sauber desde 2012.La carrera, de
+52 vueltas, comenzó con el asfalto mojado, llevando a decisiones arriesgadas:
+Charles Leclerc (Ferrari) y George Russell (Mercedes) optaron por neumáticos de
+seco antes de la salida, una apuesta que no funcionó, dejándolos fuera de ritmo.
+Franco Colapinto (Alpine) no pudo arrancar debido a un problema en la caja de
+cambios tras un accidente en Q1. Un accidente de Liam Lawson (Racing Bulls) en
+la primera curva provocó una bandera amarilla, y el choque de Isack Hadjar
+(Racing Bulls) en la vuelta 10 forzó un Safety Car prolongado. Verstappen,
+poleman (1:24.892), lideró inicialmente pero perdió el control en la vuelta 22
+tras el reinicio, cayendo al noveno puesto y terminando quinto (+15.789s).
+Lewis Hamilton (Ferrari) acabó cuarto (+13.214s), rompiendo su racha de 12
+podios consecutivos en Silverstone. Pierre Gasly (Alpine) y Lance Stroll
+(Aston Martin) brillaron en la lluvia, terminando sexto y séptimo, mientras
+Alexander Albon (Williams) fue octavo. Fernando Alonso (Aston Martin) finalizó
+noveno (+25.678s), lamentando una estrategia de pits que lo privó de un
+posible podio. Carlos Sainz (Williams) tuvo un contacto con Leclerc,
+terminando 12° y frustrado por el incidente.Con cinco abandonos y cuatro
+Safety Cars (dos virtuales), la carrera fue un desafío de estrategia y
+experiencia, favoreciendo a veteranos como Hülkenberg. McLaren consolidó su
+liderato en constructores, y Norris recortó distancias con Piastri en el
+campeonato de pilotos. El evento, con 480,000 espectadores, celebró los 75
+años de la F1, siendo una de las carreras más emocionantes del año.
+
+
