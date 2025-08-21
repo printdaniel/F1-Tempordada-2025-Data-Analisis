@@ -836,4 +836,42 @@ favorito inicial al título.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Australia 2025](gp_data/australian_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Gran Bretania
+## Clasificación de Largada del Gran Premio de Gran Bretaña 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Max Verstappen            | Red Bull-Honda RBPT           | 1:24.892          | Pole                      |
+| 2        | Oscar Piastri             | McLaren-Mercedes              | 1:24.995          |                           |
+| 3        | Lando Norris              | McLaren-Mercedes              | 1:25.001          |                           |
+| 4        | George Russell            | Mercedes                      | 1:25.046          |                           |
+| 5        | Lewis Hamilton            | Ferrari                       | 1:25.052          |                           |
+| 6        | Charles Leclerc           | Ferrari                       | 1:25.135          |                           |
+| 7        | Fernando Alonso           | Aston Martin-Mercedes         | 1:25.406          |                           |
+| 8        | Pierre Gasly              | Alpine-Renault                | 1:25.523          |                           |
+| 9        | Carlos Sainz              | Williams-Mercedes             | 1:25.598          |                           |
+| 10       | Kimi Antonelli            | Mercedes                      | 1:25.321          | Penalización 3 posiciones  |
+| 11       | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:25.678          | Eliminado en Q2           |
+| 12       | Esteban Ocon              | Haas-Ferrari                  | 1:25.789          | Eliminado en Q2           |
+| 13       | Alexander Albon           | Williams-Mercedes             | 1:25.904          | Eliminado en Q2           |
+| 14       | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:26.012          | Eliminado en Q2           |
+| 15       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:26.187          | Eliminado en Q2           |
+| 16       | Lance Stroll              | Aston Martin-Mercedes         | 1:26.345          | Eliminado en Q1           |
+| 17       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:26.512          | Eliminado en Q1           |
+| 18       | Oliver Bearman            | Haas-Ferrari                  | 1:25.412          | Eliminado en Q1, Penalización 10 posiciones |
+| 19       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:26.789          | Eliminado en Q1           |
+| 20       | Franco Colapinto          | Alpine-Renault                | Sin tiempo        | Eliminado en Q1, Pitlane  |
+
+## Notas
+- **Fecha**: 5 de julio de 2025 (Clasificación)
+- **Circuito**: Silverstone Circuit, Northamptonshire (5.891 km)
+- **Condiciones**: Seco, viento variable afectando el agarre
+- **Pole Position**: Max Verstappen (1:24.892, Red Bull, cuarta pole de 2025)
+- **Incidentes**:
+  - **Penalizaciones**: Kimi Antonelli (3 posiciones por colisión con Verstappen en Austria). Oliver Bearman (10 posiciones por infringir bandera roja en FP3). Franco Colapinto (pitlane por cambio de componentes de la unidad de potencia tras choque en Q1).
+  - **Accidentes**: Franco Colapinto (Alpine) chocó en la curva Club en Q1, causando bandera roja y daños que lo obligaron a partir desde el pitlane. Gabriel Bortoleto (Sauber) giró en FP3, afectando su confianza en Q1.
+  - **Eliminaciones destacadas**: Yuki Tsunoda (11°, Red Bull) no avanzó a Q3. Charles Leclerc (6°, Ferrari) estuvo cerca de la pole, pero Ferrari no pudo igualar el ritmo de McLaren y Red Bull.
+- **Hitos**:
+  - Max Verstappen logró la pole por apenas 0.103 segundos sobre Oscar Piastri, en una Q3 extremadamente cerrada (menos de 0.25 segundos entre los seis primeros).
+  - Fernando Alonso (7°, Aston Martin) y Carlos Sainz (9°, Williams) destacaron, entrando en Q3 con mejoras en sus coches.
+  - Kimi Antonelli (10° tras penalización) mostró ritmo competitivo en su primera clasificación en Silverstone.
