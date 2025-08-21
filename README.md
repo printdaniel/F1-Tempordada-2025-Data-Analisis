@@ -910,4 +910,14 @@ liderato en constructores, y Norris recortó distancias con Piastri en el
 campeonato de pilotos. El evento, con 480,000 espectadores, celebró los 75
 años de la F1, siendo una de las carreras más emocionantes del año.
 
+![Ritmo de carrera — Gran Bretania 2025](gp_data/british_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Gran Bretania 2025](gp_data/british_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Gran Bretania 2025](gp_data/british_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Gran Bretania 2025](gp_data/british_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Gran Bretania 2025](gp_data/british_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
