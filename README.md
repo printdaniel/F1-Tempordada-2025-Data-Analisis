@@ -920,4 +920,42 @@ años de la F1, siendo una de las carreras más emocionantes del año.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Gran Bretania 2025](gp_data/british_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Bélgica
+## Clasificación de Largada del Gran Premio de Bélgica 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Lando Norris              | McLaren-Mercedes              | 1:40.562          | Pole                      |
+| 2        | Oscar Piastri             | McLaren-Mercedes              | 1:40.647          |                           |
+| 3        | Charles Leclerc           | Ferrari                       | 1:40.941          |                           |
+| 4        | Max Verstappen            | Red Bull-Honda RBPT           | 1:40.944          |                           |
+| 5        | Alexander Albon           | Williams-Mercedes             | 1:41.102          |                           |
+| 6        | George Russell            | Mercedes                      | 1:41.187          |                           |
+| 7        | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:41.305          |                           |
+| 8        | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:41.412          |                           |
+| 9        | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:41.567          |                           |
+| 10       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:41.789          |                           |
+| 11       | Esteban Ocon              | Haas-Ferrari                  | 1:41.902          | Eliminado en Q2           |
+| 12       | Oliver Bearman            | Haas-Ferrari                  | 1:42.013          | Eliminado en Q2           |
+| 13       | Pierre Gasly              | Alpine-Renault                | 1:42.156          | Eliminado en Q2, Pitlane  |
+| 14       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:42.278          | Eliminado en Q2           |
+| 15       | Carlos Sainz              | Williams-Mercedes             | 1:42.345          | Pitlane                   |
+| 16       | Lance Stroll              | Aston Martin-Mercedes         | 1:42.678          |                           |
+| 17       | Franco Colapinto          | Alpine-Renault                | 1:42.897          |                           |
+| 18       | Lewis Hamilton            | Ferrari                       | 1:42.512          | Pitlane, Eliminado en Q1  |
+| 19       | Kimi Antonelli            | Mercedes                      | 1:42.789          | Pitlane, Eliminado en Q1  |
+| 20       | Fernando Alonso           | Aston Martin-Mercedes         | 1:42.934          | Pitlane, Eliminado en Q1  |
+
+## Notas
+- **Fecha**: 26 de julio de 2025 (Clasificación)
+- **Circuito**: Circuit de Spa-Francorchamps, Stavelot (7.004 km)
+- **Condiciones**: Seco, con amenaza de lluvia
+- **Pole Position**: Lando Norris (1:40.562, McLaren, cuarta pole de 2025)
+- **Incidentes**:
+  - **Pitlane**: Lewis Hamilton, Kimi Antonelli, y Fernando Alonso parten desde el pitlane por exceder el límite de componentes de la unidad de potencia. Carlos Sainz también desde pitlane por modificaciones bajo condiciones de parc fermé. Pierre Gasly parte desde pitlane tras ser empujado a su garaje antes de la carrera por un problema técnico.
+  - **Eliminaciones destacadas**: Lewis Hamilton (18°, Ferrari) tuvo un tiempo eliminado por exceder límites de pista en Q1. Kimi Antonelli (19°, Mercedes) y Fernando Alonso (20°, Aston Martin) decepcionaron, quedando fuera en Q1.
+  - **Aston Martin**: Peor clasificación en su historia, con Alonso y Stroll en las últimas posiciones antes de las penalizaciones.
+- **Hitos**:
+  - McLaren logró un 1-2 en clasificación, con Norris superando a Piastri por 0.085 segundos, la primera pole de McLaren en Spa desde 2012.
+  - Alexander Albon (5°, Williams) destacó con su mejor clasificación de 2025.
+  - Gabriel Bortoleto (10°, Sauber) y los Racing Bulls de Hadjar (8°) y Lawson (9°) impresionaron al entrar en Q3.
