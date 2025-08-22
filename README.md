@@ -959,3 +959,37 @@ años de la F1, siendo una de las carreras más emocionantes del año.
   - McLaren logró un 1-2 en clasificación, con Norris superando a Piastri por 0.085 segundos, la primera pole de McLaren en Spa desde 2012.
   - Alexander Albon (5°, Williams) destacó con su mejor clasificación de 2025.
   - Gabriel Bortoleto (10°, Sauber) y los Racing Bulls de Hadjar (8°) y Lawson (9°) impresionaron al entrar en Q3.
+
+## Resumen:
+Resumen del Gran Premio de Bélgica 2025El Gran Premio de Bélgica 2025, disputado
+el 27 de julio en el Circuit de Spa-Francorchamps, fue una carrera emocionante
+marcada por un inicio retrasado debido a fuertes lluvias y un dominio absoluto
+de McLaren. Oscar Piastri logró su sexta victoria de la temporada (1:38:12.345),
+partiendo desde la segunda posición y adelantando a su compañero Lando Norris,
+poleman (1:40.562), en la primera curva tras una salida caótica bajo condiciones
+húmedas. Norris terminó segundo (+3.122s), asegurando un 1-2 para McLaren, el
+primero en Spa desde 1999. Charles Leclerc (Ferrari) completó el podio (+8.456s),
+beneficiándose de una estrategia sólida en el cambio de neumáticos intermedios a medios en la vuelta 12.
+La carrera, de 44 vueltas, comenzó con un retraso de 1 hora y 20 minutos por la
+lluvia, lo que llevó a la mayoría de los pilotos a empezar con neumáticos
+intermedios. Un Virtual Safety Car en la vuelta 3 por el abandono de
+Franco Colapinto (Alpine), varado por un fallo técnico tras partir desde el
+pitlane, y un Safety Car en la vuelta 15 por el accidente de Lance Stroll
+(Aston Martin) en Eau Rouge, definieron la estrategia. Max Verstappen (Red Bull),
+partiendo cuarto, remontó al cuarto puesto (+12.789s), pero no pudo desafiar
+el ritmo de McLaren. Alexander Albon (Williams) brilló con un sexto lugar,
+mientras Fernando Alonso (Aston Martin) y Carlos Sainz (Williams), ambos desde
+el pitlane, terminaron 12° y 15°, respectivamente, luchando con el tráfico y
+la falta de ritmo.Nico Hülkenberg (Sauber) optó por una estrategia de dos
+paradas que no funcionó, terminando 11°. Lewis Hamilton (Ferrari) y
+Kimi Antonelli (Mercedes), también desde el pitlane por cambios en la unidad de
+potencia, finalizaron fuera de los puntos. La carrera destacó por la gestión
+de neumáticos en condiciones cambiantes y el fuerte desempeño de McLaren, con
+
+Piastri ampliando su liderato en el campeonato de pilotos a 28 puntos sobre
+Norris. McLaren consolidó su dominio en constructores, mientras la carrera,
+con 300,000 espectadores, marcó el regreso del formato Sprint y el primer
+Gran Premio sin Christian Horner como jefe de Red Bull, reemplazado por Laurent Mekies.
+
+
+
