@@ -991,5 +991,15 @@ Norris. McLaren consolidó su dominio en constructores, mientras la carrera,
 con 300,000 espectadores, marcó el regreso del formato Sprint y el primer
 Gran Premio sin Christian Horner como jefe de Red Bull, reemplazado por Laurent Mekies.
 
+![Ritmo de carrera — Gran Bélgica 2025](gp_data/belgian_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Gran Bélgica 2025](gp_data/belgian_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Gran Bélgica 2025](gp_data/belgian_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Gran Bélgica 2025](gp_data/belgian_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Gran Bélgica 2025](gp_data/belgian_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
 
