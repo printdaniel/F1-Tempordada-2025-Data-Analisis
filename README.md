@@ -1072,3 +1072,14 @@ mientras Piastri mantuvo la cima del campeonato de pilotos con 266 puntos,
 16 por delante de Norris.
 
 
+![Ritmo de carrera — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/degradacion_ritmo.png)
+
+
