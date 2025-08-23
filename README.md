@@ -1042,3 +1042,33 @@ Gran Premio sin Christian Horner como jefe de Red Bull, reemplazado por Laurent 
   - Aston Martin brilló con Fernando Alonso (5°) y Lance Stroll (6°), su mejor clasificación conjunta de 2025.
   - Franco Colapinto (14°, Alpine) superó a su compañero Pierre Gasly (17°) y avanzó a Q2, destacando en su octava carrera con Alpine.
 
+## Resumen:
+El Gran Premio de Hungría 2025, disputado el 3 de agosto en el Hungaroring,
+Mogyoród, fue la decimocuarta ronda del Mundial de Fórmula 1 2025 y marcó la
+última carrera antes del parón estival. Lando Norris (McLaren) logró una
+victoria histórica (1:43:17.892), superando desde la tercera posición al
+poleman Charles Leclerc (Ferrari, 1:15.372) en la primera curva y liderando
+hasta la meta. Esta victoria, la quinta de Norris en 2025, marcó el 200º
+triunfo de McLaren en F1 y su cuarto 1-2 consecutivo. Oscar Piastri (McLaren)
+terminó segundo (+0.927s), tras un intento fallido de adelantamiento en la
+vuelta 69 que casi provoca un choque, mientras George Russell (Mercedes)
+completó el podio (+5.389s) tras adelantar a Leclerc en la vuelta 62.La carrera,
+de 70 vueltas y 306.63 km, se disputó bajo condiciones secas (28°C, 49% humedad)
+con neumáticos C3, C4 y C5 de Pirelli. Charles Leclerc cayó al cuarto puesto
+tras una penalización de 5 segundos por conducción errática al defenderse de
+Russell. Fernando Alonso (Aston Martin) brilló con un quinto puesto (+10.456s),
+el mejor resultado de Aston Martin desde el GP de Arabia Saudita 2024, mientras
+Gabriel Bortoleto (Sauber) logró su mejor posición en F1 con un sexto lugar.
+Lewis Hamilton (Ferrari) decepcionó, terminando 13° tras partir 13° y expresar
+frustración por su rendimiento. Carlos Sainz (Williams), desde el 15°,
+finalizó 14°, afectado por una colisión con Pierre Gasly (Alpine), que recibió
+una penalización de 10 segundos.Incidentes clave incluyeron el abandono de
+Esteban Ocon (Haas) por problemas de motor en la vuelta 20 y una salida desde el
+pitlane de Yuki Tsunoda (Red Bull) por cambios en su monoplaza. La carrera, con una
+asistencia de 305,000 espectadores, destacó por la estrategia de paradas y la
+dificultad para adelantar en el trazado técnico del Hungaroring, apodado
+"el Mónaco sin muros". McLaren consolidó su liderato en constructores,
+mientras Piastri mantuvo la cima del campeonato de pilotos con 266 puntos,
+16 por delante de Norris.
+
+
