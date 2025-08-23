@@ -1001,5 +1001,44 @@ Gran Premio sin Christian Horner como jefe de Red Bull, reemplazado por Laurent 
 ## Degradación de ritmo
 ![Degradacion de ritmo — Gran Bélgica 2025](gp_data/belgian_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Hungria
+## Clasificación de Largada del Gran Premio de Hungría 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Charles Leclerc           | Ferrari                       | 1:15.372          | Pole                      |
+| 2        | Oscar Piastri             | McLaren-Mercedes              | 1:15.398          |                           |
+| 3        | Lando Norris              | McLaren-Mercedes              | 1:15.467          |                           |
+| 4        | George Russell            | Mercedes                      | 1:15.589          |                           |
+| 5        | Fernando Alonso           | Aston Martin-Mercedes         | 1:15.678          |                           |
+| 6        | Lance Stroll              | Aston Martin-Mercedes         | 1:15.789          |                           |
+| 7        | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:15.912          |                           |
+| 8        | Max Verstappen            | Red Bull-Honda RBPT           | 1:16.013          |                           |
+| 9        | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:16.156          |                           |
+| 10       | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:16.234          |                           |
+| 11       | Oliver Bearman            | Haas-Ferrari                  | 1:16.456          | Eliminado en Q2           |
+| 12       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:16.567          | Eliminado en Q2           |
+| 13       | Lewis Hamilton            | Ferrari                       | 1:16.678          | Eliminado en Q2           |
+| 14       | Franco Colapinto          | Alpine-Renault                | 1:16.789          | Eliminado en Q2           |
+| 15       | Carlos Sainz              | Williams-Mercedes             | 1:16.902          | Eliminado en Q2           |
+| 16       | Kimi Antonelli            | Mercedes                      | 1:17.013          | Eliminado en Q1           |
+| 17       | Pierre Gasly              | Alpine-Renault                | 1:17.156          | Eliminado en Q1           |
+| 18       | Esteban Ocon              | Haas-Ferrari                  | 1:17.289          | Eliminado en Q1           |
+| 19       | Alexander Albon           | Williams-Mercedes             | 1:17.412          | Eliminado en Q1           |
+| 20       | Yuki Tsunoda              | Red Bull-Honda RBPT           | Sin tiempo        | Pitlane, Cambios en el coche |
+
+## Notas
+- **Fecha**: 2 de agosto de 2025 (Clasificación)
+- **Circuito**: Hungaroring, Mogyoród (4.381 km)
+- **Condiciones**: Seco, viento variable y algunas gotas de lluvia en Q2
+- **Pole Position**: Charles Leclerc (1:15.372, Ferrari, primera pole de 2025)
+- **Incidentes**:
+  - **Pitlane**: Yuki Tsunoda parte desde el pitlane por modificaciones en su monoplaza tras un mal desempeño en Q1.
+  - **Eliminaciones destacadas**: Lewis Hamilton (13°, Ferrari) y Kimi Antonelli (16°, Mercedes) no avanzaron a Q3, afectados por condiciones cambiantes y errores estratégicos. Carlos Sainz (15°, Williams) y Alexander Albon (19°, Williams) tuvieron un fin de semana complicado.
+  - **Problemas técnicos**: Esteban Ocon (Haas) enfrentó problemas en la salida de boxes en Q1, quedando eliminado.
+  - **Condiciones de pista**: El viento afectó los tiempos en Q3, penalizando especialmente a McLaren, que perdió el doblete esperado.
+- **Hitos**:
+  - Charles Leclerc logró su primera pole de la temporada, superando a Oscar Piastri por 0.026 segundos en una Q3 afectada por el viento.
+  - Aston Martin brilló con Fernando Alonso (5°) y Lance Stroll (6°), su mejor clasificación conjunta de 2025.
+  - Franco Colapinto (14°, Alpine) superó a su compañero Pierre Gasly (17°) y avanzó a Q2, destacando en su octava carrera con Alpine.
 
