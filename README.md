@@ -123,7 +123,6 @@ La actuación de Haas, con Esteban Ocon y Oliver Bearman en quinto y octavo luga
 fue destacada. Este resultado consolidó el dominio de McLaren en el campeonato de constructores,
 marcando su 50º final 1-2 en la historia de la Fórmula 1.
 
-
 ![Ritmo de carrera — China 2025](gp_data/chinese_grand_prix_2025/figures/ritmo_carrera.png)
 ## Estrategía de Neumáticos
 ![Estrategia de Neumáticos — China 2025](gp_data/chinese_grand_prix_2025/figures/estrategia_neumaticos.png)
@@ -199,7 +198,6 @@ la parrilla (15°), luchó pero finalizó 14°. Sin incidentes mayores, la carre
 fue estratégica, con Verstappen consolidando su candidatura al título,
 quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en constructores.
 
-
 ![Ritmo de carrera — Japón 2025](gp_data/japanese_grand_prix_2025/figures/ritmo_carrera.png)
 ## Estrategía de Neumáticos
 ![Estrategia de Neumáticos — Japón 2025](gp_data/japanese_grand_prix_2025/figures/estrategia_neumaticos.png)
@@ -211,7 +209,6 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
 ![Degradacion de ritmo — Japón 2025](gp_data/japanese_grand_prix_2025/figures/degradacion_ritmo.png)
 
 # Gran Premio de Bahrain
-
 ## Clasificación del Gran Premio de Bahréin 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Puntos | Notas                     |
@@ -289,7 +286,6 @@ quedando a un punto de Norris en el campeonato. McLaren mantuvo su dominio en co
 ![Degradacion de ritmo — Bahrain 2025](gp_data/bahrain_grand_prix_2025/figures/degradacion_ritmo.png)
 
 # Gran Premio de Arabia Saudita
-
 ## Clasificación de Largada del Gran Premio de Arabia Saudita 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
@@ -448,7 +444,6 @@ para la próxima carrera.
 ![Degradacion de ritmo — Miami 2025](gp_data/miami_grand_prix_2025/figures/degradacion_ritmo.png)
 
 # Gran Premio de Emilia Romagna
-## Clasificación
 # Clasificación de Largada del Gran Premio de Emilia-Romaña 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
