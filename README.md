@@ -68,7 +68,8 @@ consolidando su liderazgo en el campeonato de constructores.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Australia 2025](gp_data/australian_grand_prix_2025/figures/degradacion_ritmo.png)
 
-# Clasificación del Gran Premio de China 2025
+# Gran Premio de China
+## Clasificación del Gran Premio de China 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo/Diferencia | Puntos | Notas                     |
 |----------|----------------------------|-------------------------------|-------------------|--------|---------------------------|
