@@ -758,7 +758,6 @@ espectadores, consolidando a Canadá como una cita vibrante en el calendario.
 ![Degradacion de ritmo — Canada 2025](gp_data/canadian_grand_prix_2025/figures/degradacion_ritmo.png)
 
 # Gran Premio de Australia
-
 ## Clasificación de Largada del Gran Premio de Australia 2025
 
 | Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
@@ -1067,7 +1066,6 @@ dificultad para adelantar en el trazado técnico del Hungaroring, apodado
 mientras Piastri mantuvo la cima del campeonato de pilotos con 266 puntos,
 16 por delante de Norris.
 
-
 ![Ritmo de carrera — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/ritmo_carrera.png)
 ## Estrategía de Neumáticos
 ![Estrategia de Neumáticos — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/estrategia_neumaticos.png)
@@ -1077,5 +1075,3 @@ mientras Piastri mantuvo la cima del campeonato de pilotos con 266 puntos,
 ![Paradas en Boxes — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/parada_en_boxes.png)
 ## Degradación de ritmo
 ![Degradacion de ritmo — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/degradacion_ritmo.png)
-
-
