@@ -1117,3 +1117,43 @@ mientras Piastri mantuvo la cima del campeonato de pilotos con 266 puntos,
   - Isack Hadjar (4°, Racing Bulls) logró su mejor clasificación en F1, superando a pilotos de equipos top como Mercedes y Ferrari.
   - Carlos Sainz (9°, Williams) y Fernando Alonso (10°, Aston Martin) entraron en Q3, pero no pudieron acercarse a los McLaren.
 - **Fuente**: [Formula1.com], [TyCSports.com], [Infobae.com], [MARCA.com], [Clarin.com], [Bolavip.com]
+
+## Resumen del Gran Premio de Países Bajos 2025
+El Gran Premio de Países Bajos 2025, disputado el 31 de agosto en el Circuito
+de Zandvoort, fue una carrera intensa marcada por el dominio de McLaren y un
+drama significativo para el campeonato. Oscar Piastri logró su séptima
+victoria de la temporada (1:26:00.346), partiendo desde la pole position
+(1:08.662, récord de pista) y manteniendo el liderato tras una salida limpia,
+ampliando su ventaja en el campeonato de pilotos a 34 puntos. Max Verstappen
+(Red Bull) terminó segundo (+1.072s) ante su público, mientras Isack Hadjar
+(Racing Bulls) celebró su primer podio en F1 con un tercer puesto (+1.938s),
+un hito para el rookie francés.La carrera, de 72 vueltas (306.648 km), se vio
+alterada por múltiples incidentes. Lando Norris (McLaren), partiendo segundo,
+sufrió un abandono devastador en la vuelta 65 debido a un fallo en la unidad de
+potencia, con humo saliendo de su monoplaza, lo que desencadenó un Safety Car y
+complicó su lucha por el título. Otro momento clave fue el choque entre
+Kimi Antonelli (Mercedes) y Charles Leclerc (Ferrari) en la vuelta 64, cuando
+Antonelli intentó un adelantamiento arriesgado, causando el abandono de Leclerc
+y un Safety Car adicional. Antonelli recibió una penalización de 15 segundos
+(10 por el choque y 5 por exceder la velocidad en el pitlane), cayendo al 17º
+puesto.Franco Colapinto (Alpine) tuvo una actuación destacada,
+remontando desde el 16º lugar para terminar 11º, su mejor resultado de la
+temporada, quedándose a las puertas de los puntos. Colapinto mostró un ritmo
+competitivo, beneficiándose del caos en pista, pero lamentó el tráfico en
+clasificación que lo dejó fuera de Q2 por 0.067 segundos. Carlos Sainz
+(Williams) finalizó 13º tras partir 9º, perjudicado por una penalización de 10
+segundos por un incidente no especificado. Fernando Alonso (Aston Martin) acabó
+8º (+24.567s), logrando puntos tras una remontada desde el 10º puesto, aunque
+expresó frustración por perder tiempo en la curva 10 durante la clasificación.
+Lance Stroll (Aston Martin) remontó desde el 20º lugar (tras un accidente en
+Q1) al 9º, puntuando con una sólida estrategia.George Russell (Mercedes) y
+Lewis Hamilton (Ferrari) terminaron 4º y 6º, respectivamente, mientras
+Pierre Gasly (Alpine) cayó al 16º lugar tras una carrera difícil. La carrera,
+con condiciones secas y compuestos de neumáticos C2, C3 y C4, destacó por la
+dificultad para adelantar en el estrecho trazado de Zandvoort, con solo dos
+zonas de DRS. McLaren consolidó su liderato en el campeonato de constructores
+(559 puntos), mientras Ferrari (260 puntos) y Mercedes (236 puntos) luchan por
+el segundo puesto. El evento, con 305,000 espectadores, marcó el regreso de la
+F1 tras el parón veraniego, con Piastri (284 puntos) y Norris (275 puntos)
+liderando el campeonato de pilotos, seguidos por Verstappen (187 puntos).
+
