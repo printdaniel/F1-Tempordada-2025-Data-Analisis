@@ -1075,3 +1075,45 @@ mientras Piastri mantuvo la cima del campeonato de pilotos con 266 puntos,
 ![Paradas en Boxes — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/parada_en_boxes.png)
 ## Degradación de ritmo
 ![Degradacion de ritmo — Gran Hungría 2025](gp_data/hungarian_grand_prix_2025/figures/degradacion_ritmo.png)
+
+# Gran Premio de Países Bajos
+## Clasificación de Largada del Gran Premio de Países Bajos 2025
+
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Oscar Piastri             | McLaren-Mercedes              | 1:08.662          | Pole, Récord de pista     |
+| 2        | Lando Norris              | McLaren-Mercedes              | 1:08.674          |                           |
+| 3        | Max Verstappen            | Red Bull-Honda RBPT           | 1:08.943          |                           |
+| 4        | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:09.208          |                           |
+| 5        | George Russell            | Mercedes                      | 1:09.356          |                           |
+| 6        | Lewis Hamilton            | Ferrari                       | 1:09.487          |                           |
+| 7        | Charles Leclerc           | Ferrari                       | 1:09.612          |                           |
+| 8        | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:09.736          |                           |
+| 9        | Carlos Sainz              | Williams-Mercedes             | 1:09.842          |                           |
+| 10       | Fernando Alonso           | Aston Martin-Mercedes         | 1:09.967          |                           |
+| 11       | Kimi Antonelli            | Mercedes                      | 1:10.123          | Eliminado en Q2           |
+| 12       | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:10.245          | Eliminado en Q2           |
+| 13       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:10.378          | Eliminado en Q2           |
+| 14       | Pierre Gasly              | Alpine-Renault                | 1:09.894          | Eliminado en Q2           |
+| 15       | Alexander Albon           | Williams-Mercedes             | 1:10.012          | Eliminado en Q2           |
+| 16       | Franco Colapinto          | Alpine-Renault                | 1:10.104          | Eliminado en Q1           |
+| 17       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:10.171          | Eliminado en Q1           |
+| 18       | Esteban Ocon              | Haas-Ferrari                  | 1:10.289          | Eliminado en Q1           |
+| 19       | Oliver Bearman            | Haas-Ferrari                  | 1:10.456          | Eliminado en Q1           |
+| 20       | Lance Stroll              | Aston Martin-Mercedes         | Sin tiempo        | Eliminado en Q1, Accidente |
+
+## Notas
+- **Fecha**: 30 de agosto de 2025 (Clasificación)
+- **Circuito**: Circuito de Zandvoort, Países Bajos (4.259 km)
+- **Condiciones**: Seco, con 10% de probabilidad de lluvia, sol en la pista
+- **Pole Position**: Oscar Piastri (1:08.662, McLaren, sexta pole de 2025, nuevo récord de pista)
+- **Incidentes**:
+  - **Accidente de Lance Stroll**: El piloto de Aston Martin pisó la hierba en la curva 13, trompeó y rompió el alerón delantero, causando una bandera roja en Q1 y no marcó tiempo, partirá 20°.[](https://www.infobae.com/deportes/2025/08/30/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-libre-en-el-gp-de-paises-bajos-hora-tv-y-todo-lo-que-hay-que-saber/)[](https://www.clarin.com/deportes/f1-gp-paises-bajos-hoy-vivo-horario-clasificacion-franco-colapinto-sabado-30-agosto_0_gyxGTjhpRV.html)
+  - **Eliminaciones destacadas**: Franco Colapinto (16°, Alpine) quedó a 0.067 segundos de Gabriel Bortoleto (Sauber), quien avanzó a Q2. Colapinto señaló tráfico de Carlos Sainz y Oliver Bearman en el sector 3 como causa de su eliminación. Pierre Gasly (14°, Alpine) superó a Colapinto por 0.210 segundos.[](https://www.infobae.com/deportes/2025/08/30/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-libre-en-el-gp-de-paises-bajos-hora-tv-y-todo-lo-que-hay-que-saber/)[](https://tn.com.ar/deportes/automovilismo/2025/08/29/colapinto-corre-la-ultima-practica-y-la-clasificacion-del-gp-de-paises-bajos-tras-las-criticas-de-briatore/)[](https://www.clarin.com/deportes/f1-gp-paises-bajos-hoy-vivo-horario-clasificacion-franco-colapinto-sabado-30-agosto_0_gyxGTjhpRV.html)
+  - **Incidente en pits**: George Russell (Mercedes) chocó con el McLaren de Oscar Piastri en la FP2, causando una bandera roja, pero no afectó la clasificación.[](https://www.infobae.com/deportes/2025/08/29/franco-colapinto-tendra-las-primeras-dos-practicas-en-el-gran-premio-de-paises-bajos-de-formula-1-hora-tv-y-todo-lo-que-saber/)
+  - **Incidente Russell-Alonso**: En la FP3, Russell casi colisiona con Fernando Alonso en una curva ciega, pero los comisarios emitieron solo una advertencia y una multa de 7,500 euros a Mercedes, sin penalización en la parrilla.[](https://www.elconfidencial.com/deportes/2025-08-30/f1-paises-bajos-clasificacion-directo_4199299/)[](https://www.marca.com/motor/formula1/gp-paises-bajos/2025/08/30/05_0501_20250830_15_2-directo.html)
+- **Hitos**:
+  - McLaren logró un 1-2 en clasificación, con Piastri superando a Norris por 0.012 segundos, consolidando su dominio tras liderar las tres prácticas libres.[](https://www.tycsports.com/automovilismo/f1-colapinto-quedo-afuera-en-q1-y-piastri-hizo-la-pole-en-el-gp-de-paises-bajos-id683130.html)[](https://www.marca.com/motor/formula1/gp-paises-bajos/2025/08/30/05_0501_20250830_15_2-directo.html)[](https://www.sdpnoticias.com/deportes/formula-1-hoy-como-quedo-la-clasificacion-para-el-gran-premio-de-paises-bajos-2025/)
+  - Isack Hadjar (4°, Racing Bulls) logró su mejor clasificación en F1, superando a pilotos de equipos top como Mercedes y Ferrari.
+  - Carlos Sainz (9°, Williams) y Fernando Alonso (10°, Aston Martin) entraron en Q3, pero no pudieron acercarse a los McLaren.
+- **Fuente**: [Formula1.com], [TyCSports.com], [Infobae.com], [MARCA.com], [Clarin.com], [Bolavip.com]
