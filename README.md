@@ -1157,3 +1157,14 @@ el segundo puesto. El evento, con 305,000 espectadores, marcó el regreso de la
 F1 tras el parón veraniego, con Piastri (284 puntos) y Norris (275 puntos)
 liderando el campeonato de pilotos, seguidos por Verstappen (187 puntos).
 
+![Ritmo de carrera — Gran Países Bajos  2025](gp_data/dutch_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Gran Países Bajos 2025](gp_data/dutch_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Gran Países Bajos 2025](gp_data/dutch_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Gran Países Bajos 2025](gp_data/dutch_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Gran Países Bajos 2025](gp_data/dutch_grand_prix_2025/figures/degradacion_ritmo.png)
+
+
