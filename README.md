@@ -1206,3 +1206,33 @@ liderando el campeonato de pilotos, seguidos por Verstappen (187 puntos).
   - Verstappen robó la pole en el último intento, superando a Norris por solo 0.077 segundos, en una batalla intensa con McLaren.
   - Gabriel Bortoleto (7°, Sauber) superó a su compañero Hülkenberg (12°), consolidando su rol como el piloto más rápido del equipo.
   - Primera Q3 de Kimi Antonelli (6°, Mercedes) en Monza, destacando en casa.
+
+  ## Resumen:
+El Gran Premio de Italia 2025, disputado el 7 de septiembre en el Autodromo
+Nazionale di Monza, fue un espectáculo dominado por Max Verstappen (Red Bull),
+quien convirtió su pole position (1:18.792, nuevo récord de pista y vuelta más
+rápida por velocidad media en la historia de la F1) en una victoria
+contundente (tiempo total: 1:15:12.456), la tercera de su temporada y la
+tercera en Monza en los últimos cuatro años. Verstappen lideró tras un intenso
+duelo inicial con Lando Norris (McLaren), terminando con una ventaja de 19.207
+segundos, en lo que fue la carrera más rápida de la historia del
+Campeonato Mundial (velocidad media: 250.706 km/h).Lando Norris finalizó
+segundo (+19.207s), mientras que Oscar Piastri (McLaren), líder del campeonato,
+completó el podio en tercero (+20.145s) tras obedecer una orden de equipo en la
+vuelta 49 para ceder la posición a Norris, después de que McLaren pitara primero
+a Piastri y Norris sufriera una parada lenta (4.5 segundos extra). Esto generó
+controversia, con Piastri recibiendo el mensaje "libres para competir"
+post-orden, pero sin tiempo para recuperar. Norris recortó la brecha a 31
+puntos en el campeonato de pilotos.Charles Leclerc (Ferrari) emocionó a los
+Tifosi con un cuarto puesto (+25.678s), seguido de George Russell (Mercedes)
+en quinto. Lewis Hamilton (Ferrari), partiendo 10° por penalización, remontó
+al sexto (+28.912s) en su debut en Monza con la Scuderia. Fernando Alonso
+(Aston Martin) abandonó en la vuelta 42 por fallo de suspensión, mientras
+Franco Colapinto (Alpine) finalizó 19° tras una clasificación complicada.La
+carrera, de 53 vueltas sin Safety Car, destacó por la estrategia de una parada
+y el ritmo superior de Red Bull en las rectas de Monza. McLaren mantuvo el
+liderato en constructores, pero la decisión de equipo avivó debates sobre
+favoritismos. Con 350,000 espectadores, el evento fue un hito para Verstappen,
+quien sumó 25 puntos clave en su lucha por el título.
+
+
