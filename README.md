@@ -1235,4 +1235,15 @@ liderato en constructores, pero la decisión de equipo avivó debates sobre
 favoritismos. Con 350,000 espectadores, el evento fue un hito para Verstappen,
 quien sumó 25 puntos clave en su lucha por el título.
 
+## Análisis
+![Ritmo de carrera — Gran Países Bajos  2025](gp_data/italian_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Gran Países Bajos 2025](gp_data/italian_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Gran Países Bajos 2025](gp_data/italian_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Gran Países Bajos 2025](gp_data/italian_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Gran Países Bajos 2025](gp_data/italian_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
