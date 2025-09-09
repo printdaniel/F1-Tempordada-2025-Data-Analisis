@@ -1167,4 +1167,42 @@ liderando el campeonato de pilotos, seguidos por Verstappen (187 puntos).
 ## Degradación de ritmo
 ![Degradacion de ritmo — Gran Países Bajos 2025](gp_data/dutch_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Italia
+## Clasificación de Largada del Gran Premio de Italia 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Max Verstappen            | Red Bull-Honda RBPT           | 1:18.792          | Pole, Récord de pista     |
+| 2        | Lando Norris              | McLaren-Mercedes              | 1:18.869          |                           |
+| 3        | Oscar Piastri             | McLaren-Mercedes              | 1:18.982          |                           |
+| 4        | Charles Leclerc           | Ferrari                       | 1:19.012          |                           |
+| 5        | George Russell            | Mercedes                      | 1:19.145          |                           |
+| 6        | Kimi Antonelli            | Mercedes                      | 1:19.267          |                           |
+| 7        | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:19.389          |                           |
+| 8        | Fernando Alonso           | Aston Martin-Mercedes         | 1:19.512          |                           |
+| 9        | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:19.634          |                           |
+| 10       | Lewis Hamilton            | Ferrari                       | 1:19.045          | Penalización 5 posiciones (de 5° a 10°) |
+| 11       | Oliver Bearman            | Haas-Ferrari                  | 1:19.456          | Eliminado en Q2           |
+| 12       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:19.567          | Eliminado en Q2           |
+| 13       | Carlos Sainz              | Williams-Mercedes             | 1:19.678          | Eliminado en Q2           |
+| 14       | Alexander Albon           | Williams-Mercedes             | 1:19.789          | Eliminado en Q2           |
+| 15       | Esteban Ocon              | Haas-Ferrari                  | 1:19.901          | Eliminado en Q2           |
+| 16       | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:20.012          | Eliminado en Q1, Pitlane (nueva unidad de potencia) |
+| 17       | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:20.123          | Eliminado en Q1           |
+| 18       | Lance Stroll              | Aston Martin-Mercedes         | 1:20.234          | Eliminado en Q1           |
+| 19       | Franco Colapinto          | Alpine-Renault                | 1:20.345          | Eliminado en Q1           |
+| 20       | Pierre Gasly              | Alpine-Renault                | 1:20.456          | Eliminado en Q1, Pitlane (nueva unidad de potencia) |
+
+## Notas
+- **Fecha**: 6 de septiembre de 2025 (Clasificación)
+- **Circuito**: Autodromo Nazionale di Monza, Monza (5.793 km)
+- **Condiciones**: Seco, 24°C, con viento ligero
+- **Pole Position**: Max Verstappen (1:18.792, Red Bull, quinta pole de 2025, nuevo récord de pista y velocidad media más alta en la historia de la F1)
+- **Incidentes**:
+  - **Penalizaciones**: Lewis Hamilton (Ferrari) penalizado con 5 posiciones por infracción de bandera amarilla en Zandvoort, cayendo del 5° al 10°. Isack Hadjar y Pierre Gasly parten desde el pitlane por nuevas unidades de potencia instaladas bajo condiciones de parc fermé.
+  - **Eliminaciones destacadas**: Racing Bulls tuvo una doble eliminación en Q1 con Hadjar (16°) y Lawson (17°), la primera del año para el equipo. Williams decepcionó con Sainz (13°) y Albon (14°) fuera de Q3. Franco Colapinto (19°, Alpine) quedó eliminado en Q1 tras una vuelta interrumpida por tráfico.
+  - **Sesión tensa**: Q2 vio una salida abortada temprana de Norris, quien casi queda eliminado, pero salvó un puesto en la primera fila. No hubo banderas rojas en Q3, pero la sesión fue extremadamente cerrada entre los tres primeros (menos de 0.2 segundos).
+- **Hitos**:
+  - Verstappen robó la pole en el último intento, superando a Norris por solo 0.077 segundos, en una batalla intensa con McLaren.
+  - Gabriel Bortoleto (7°, Sauber) superó a su compañero Hülkenberg (12°), consolidando su rol como el piloto más rápido del equipo.
+  - Primera Q3 de Kimi Antonelli (6°, Mercedes) en Monza, destacando en casa.
