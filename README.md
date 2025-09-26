@@ -1289,3 +1289,30 @@ quien sumó 25 puntos clave en su lucha por el título.
   - Carlos Sainz (2°, Williams) y Liam Lawson (3°, Racing Bulls) lograron sus mejores posiciones de clasificación en 2025, beneficiándose de los incidentes.
   - Alpine tuvo un sábado desastroso, con Colapinto (16°) y Gasly (19°) eliminados en Q1 tras accidentes.
   - McLaren decepcionó con Norris (7°) y Piastri (9°), lejos de la pole, afectando sus chances de sellar el título de constructores.
+
+## Resumen:
+El Gran Premio de Azerbaiyán 2025, disputado el 21 de septiembre en el
+Circuito Callejero de Bakú, fue una carrera marcada por un inicio caótico y el
+dominio de Max Verstappen (Red Bull). Verstappen, partiendo desde la pole
+(1:41.117), lideró de principio a fin, logrando su tercera victoria del año,
+un Grand Chelem (pole, victoria, vuelta rápida: 1:43.702) y su segundo triunfo
+consecutivo (1:33:26.408). George Russell (Mercedes) terminó segundo
+(+14.609s), mientras Carlos Sainz (Williams) logró un histórico tercer puesto
+(+19.199s), el primer podio de Williams desde 2021 y su mejor resultado con el
+equipo.Oscar Piastri (McLaren), líder del campeonato, sufrió un accidente en
+la primera vuelta tras una salida en falso, marcando su primer abandono desde
+2023 y posponiendo el título de constructores de McLaren. Lando Norris (McLaren)
+finalizó séptimo (+35.789s), incapaz de capitalizar el abandono de Piastri,
+recortando solo 6 puntos en el campeonato de pilotos (324 vs. 299).
+Kimi Antonelli (Mercedes) impresionó con un cuarto puesto, su mejor resultado,
+mientras Liam Lawson (5°) y Yuki Tsunoda (6°, ambos Racing Bulls) lograron sus
+mejores posiciones de la temporada.Franco Colapinto (Alpine) terminó 19º tras
+partir 16º, perjudicado por un trompo causado por un toque de Alexander Albon
+(Williams) tras una parada en boxes, que lo dejó sin opciones de puntos.
+Fernando Alonso (Aston Martin) acabó 15º, penalizado con 5 segundos por una
+salida anticipada. La carrera, de 51 vueltas sin Safety Car, destacó por la
+estrategia de neumáticos y el ritmo de Verstappen en el exigente trazado urbano.
+McLaren mantuvo el liderato en constructores (623 puntos), pero Ferrari (286)
+y Mercedes (272) se acercaron. La próxima cita, Singapur, promete más emociones.
+
+
