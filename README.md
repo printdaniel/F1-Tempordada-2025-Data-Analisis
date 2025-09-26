@@ -1315,4 +1315,15 @@ estrategia de neumáticos y el ritmo de Verstappen en el exigente trazado urbano
 McLaren mantuvo el liderato en constructores (623 puntos), pero Ferrari (286)
 y Mercedes (272) se acercaron. La próxima cita, Singapur, promete más emociones.
 
+## Análisis
+![Ritmo de carrera — Gran Premio de Italia  2025](gp_data/azerbaijan_grand_prix_2025/figures/ritmo_carrera.png)
+## Estrategía de Neumáticos
+![Estrategia de Neumáticos — Gran Premio de Italia 2025](gp_data/azerbaijan_grand_prix_2025/figures/estrategia_neumaticos.png)
+## Evolución de Posiciones
+![Evolución de Posiciones — Gran Premio de Italia 2025](gp_data/azerbaijan_grand_prix_2025/figures/evolucion_posiciones.png)
+## Paradas en Boxes
+![Paradas en Boxes — Gran Premio de Italia 2025](gp_data/azerbaijan_grand_prix_2025/figures/parada_en_boxes.png)
+## Degradación de ritmo
+![Degradacion de ritmo — Gran Premio de Italia 2025](gp_data/azerbaijan_grand_prix_2025/figures/degradacion_ritmo.png)
+
 
