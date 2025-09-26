@@ -1246,4 +1246,46 @@ quien sumó 25 puntos clave en su lucha por el título.
 ## Degradación de ritmo
 ![Degradacion de ritmo — Gran Premio de Italia 2025](gp_data/italian_grand_prix_2025/figures/degradacion_ritmo.png)
 
+# Gran Premio de Azerbaijan 2025
+## Clasificación:
+# Clasificación de Largada del Gran Premio de Azerbaiyán 2025
 
+| Posición | Piloto                     | Equipo                        | Tiempo Q3         | Notas                     |
+|----------|----------------------------|-------------------------------|-------------------|---------------------------|
+| 1        | Max Verstappen            | Red Bull-Honda RBPT           | 1:41.117          | Pole                      |
+| 2        | Carlos Sainz              | Williams-Mercedes             | 1:41.595          |                           |
+| 3        | Liam Lawson               | Racing Bulls-Honda RBPT       | 1:42.560          |                           |
+| 4        | Isack Hadjar              | Racing Bulls-Honda RBPT       | 1:42.863          |                           |
+| 5        | Kimi Antonelli            | Mercedes                      | 1:42.987          |                           |
+| 6        | Yuki Tsunoda              | Red Bull-Honda RBPT           | 1:43.054          |                           |
+| 7        | Lando Norris              | McLaren-Mercedes              | 1:43.167          |                           |
+| 8        | George Russell            | Mercedes                      | 1:43.289          |                           |
+| 9        | Oscar Piastri             | McLaren-Mercedes              | Sin tiempo        | Accidente en Q3           |
+| 10       | Charles Leclerc           | Ferrari                       | Sin tiempo        | Accidente en Q3           |
+| 11       | Fernando Alonso           | Aston Martin-Mercedes         | 1:43.412          | Eliminado en Q2           |
+| 12       | Lewis Hamilton            | Ferrari                       | 1:43.523          | Eliminado en Q2           |
+| 13       | Gabriel Bortoleto         | Kick Sauber-Ferrari           | 1:43.634          | Eliminado en Q2           |
+| 14       | Lance Stroll              | Aston Martin-Mercedes         | 1:43.745          | Eliminado en Q2           |
+| 15       | Oliver Bearman            | Haas-Ferrari                  | 1:43.856          | Eliminado en Q2           |
+| 16       | Franco Colapinto          | Alpine-Renault                | 1:44.012          | Eliminado en Q1, Accidente |
+| 17       | Nico Hülkenberg           | Kick Sauber-Ferrari           | 1:44.123          | Eliminado en Q1, Accidente |
+| 18       | Alexander Albon           | Williams-Mercedes             | 1:44.234          | Eliminado en Q1, Accidente |
+| 19       | Pierre Gasly              | Alpine-Renault                | 1:44.345          | Eliminado en Q1, Accidente |
+| 20       | Esteban Ocon              | Haas-Ferrari                  | Sin tiempo        | Descalificado, Último por anomalía técnica |
+
+## Notas
+- **Fecha**: 20 de septiembre de 2025 (Clasificación)
+- **Circuito**: Circuito Callejero de Bakú, Azerbaiyán (6.003 km)
+- **Condiciones**: Seco, con fuertes vientos y 10% de probabilidad de lluvia
+- **Pole Position**: Max Verstappen (1:41.117, Red Bull, sexta pole de 2025)
+- **Incidentes**:
+  - **Récord de banderas rojas**: Seis banderas rojas en la clasificación (récord de la temporada), causadas por accidentes de Alexander Albon, Nico Hülkenberg, Franco Colapinto, Pierre Gasly, Charles Leclerc, y Oscar Piastri.
+  - **Descalificación de Esteban Ocon**: Descalificado por una anomalía técnica (deflexión excesiva del alerón trasero), largará último.
+  - **Accidente de Franco Colapinto**: En Q1, Colapinto chocó en la curva 4 tras un despiste de su compañero Pierre Gasly, quien se fue largo en la misma curva, causando una bandera roja. Colapinto explicó: "Frené un pelín de más y el auto se me giró, no sé qué pasó. Me desconcentró el despiste de Gasly".[](https://www.tycsports.com/automovilismo/f1-horario-y-donde-ver-en-vivo-la-clasificacion-del-gp-de-azerbaiyan-id686829.html)[](https://www.infobae.com/deportes/2025/09/20/franco-colapinto-afronta-la-fp3-del-circuito-callejero-de-baku-de-la-formula-1/)
+  - **Accidentes en Q3**: Oscar Piastri y Charles Leclerc chocaron contra las barreras, sin registrar tiempos, pero largarán 9º y 10º por sus posiciones en Q2.
+  - **Penalizaciones**: Ninguna penalización de parrilla adicional, pero Ocon fue descalificado post-clasificación.
+- **Hitos**:
+  - Max Verstappen logró la pole en una sesión caótica, superando a Carlos Sainz por 0.478 segundos.
+  - Carlos Sainz (2°, Williams) y Liam Lawson (3°, Racing Bulls) lograron sus mejores posiciones de clasificación en 2025, beneficiándose de los incidentes.
+  - Alpine tuvo un sábado desastroso, con Colapinto (16°) y Gasly (19°) eliminados en Q1 tras accidentes.
+  - McLaren decepcionó con Norris (7°) y Piastri (9°), lejos de la pole, afectando sus chances de sellar el título de constructores.
